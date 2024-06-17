@@ -1,0 +1,753 @@
+,country,election name,province,district,municipality,number of wards,total population,election center,number of male voters,number of female voters,number of other voters,total eligible voters
+0,Nepal,Local Election 2079,Pradesh 1,Taplejung,Aathrai Tribeni Rural Municipality,5,12288,5,5148,4595,0,9743
+1,Nepal,Local Election 2079,Pradesh 1,Taplejung,Pathibhara Yangwarak Rural Municipality,6,11797,6,5330,4611,0,9941
+2,Nepal,Local Election 2079,Pradesh 1,Taplejung,Phaktanglung Rural Municipality,7,11925,12,4883,4007,0,8890
+3,Nepal,Local Election 2079,Pradesh 1,Taplejung,Phungling Municipality,11,28786,11,8641,8561,0,17202
+4,Nepal,Local Election 2079,Pradesh 1,Taplejung,Mikwakhola Rural Municipality,5,7991,6,3777,3190,0,6967
+5,Nepal,Local Election 2079,Pradesh 1,Taplejung,Meringden Rural Municipality,6,12040,7,4661,3942,0,8603
+6,Nepal,Local Election 2079,Pradesh 1,Taplejung,Maiwakhola Rural Municipality,6,10365,6,4153,3644,0,7797
+7,Nepal,Local Election 2079,Pradesh 1,Taplejung,Sidingba Rural Municipality,7,10981,9,4816,4062,0,8878
+8,Nepal,Local Election 2079,Pradesh 1,Taplejung,Sirijangha Rural Municipality,8,14186,11,6246,5413,0,11659
+9,Nepal,Local Election 2079,Pradesh 1,Panchthar,Kummayak Rural Municipality,5,13020,10,6198,5585,0,11783
+10,Nepal,Local Election 2079,Pradesh 1,Panchthar,Tumbewa Rural Municipality,5,11063,9,4858,4604,0,9462
+11,Nepal,Local Election 2079,Pradesh 1,Panchthar,Falelung Rural Municipality,8,20531,11,9292,7872,0,17164
+12,Nepal,Local Election 2079,Pradesh 1,Panchthar,Falgunanda Rural Municipality,7,21253,13,9686,8890,0,18576
+13,Nepal,Local Election 2079,Pradesh 1,Panchthar,Phidim Municipality,14,48713,22,17632,16374,0,34006
+14,Nepal,Local Election 2079,Pradesh 1,Panchthar,Miklajung Rural Municipality,8,21328,14,9557,8947,0,18504
+15,Nepal,Local Election 2079,Pradesh 1,Panchthar,Yangwarak Rural Municipality,6,16828,10,7589,6617,0,14206
+16,Nepal,Local Election 2079,Pradesh 1,Panchthar,Hilihang Rural Municipality,7,20537,12,8764,7759,0,16523
+17,Nepal,Local Election 2079,Pradesh 1,Illam,Illam Municipality,12,50455,24,18420,18310,0,36730
+18,Nepal,Local Election 2079,Pradesh 1,Illam,Chulachuli Rural Municipality,6,22856,9,9278,9300,2,18580
+19,Nepal,Local Election 2079,Pradesh 1,Illam,Deumai Municipality,9,31531,18,13177,12681,0,25858
+20,Nepal,Local Election 2079,Pradesh 1,Illam,Fakphokthum Rural Municipality,7,20004,17,8552,7983,0,16535
+21,Nepal,Local Election 2079,Pradesh 1,Illam,Mai Municipality,10,30988,11,12532,11762,0,24294
+22,Nepal,Local Election 2079,Pradesh 1,Illam,Maijogmai Rural Municipality,6,19295,11,8828,7738,0,16566
+23,Nepal,Local Election 2079,Pradesh 1,Illam,Mangsebung Rural Municipality,6,16897,11,6549,6019,0,12568
+24,Nepal,Local Election 2079,Pradesh 1,Illam,Rong Rural Municipality,6,17555,15,7884,7149,0,15033
+25,Nepal,Local Election 2079,Pradesh 1,Illam,Sandakpur Rural Municipality,5,15460,14,7077,6313,0,13390
+26,Nepal,Local Election 2079,Pradesh 1,Illam,Suryodaya Municipality,14,55457,21,23257,21937,0,45194
+27,Nepal,Local Election 2079,Pradesh 1,Jhapa,Arjundhara Municipality,11,84429,22,26559,27184,2,53745
+28,Nepal,Local Election 2079,Pradesh 1,Jhapa,Kachankawal Rural Municipality,7,42386,19,15347,14874,0,30221
+29,Nepal,Local Election 2079,Pradesh 1,Jhapa,Kankai Municipality,9,53088,12,17317,18154,0,35471
+30,Nepal,Local Election 2079,Pradesh 1,Jhapa,Kamal Rural Municipality,7,53710,13,18541,19407,2,37950
+31,Nepal,Local Election 2079,Pradesh 1,Jhapa,Gauradhaha Municipality,9,60598,25,21842,21702,0,43544
+32,Nepal,Local Election 2079,Pradesh 1,Jhapa,Gauriganj Rural Municipality,6,36058,15,11889,11585,0,23474
+33,Nepal,Local Election 2079,Pradesh 1,Jhapa,Jhapa Rural Municipality,7,39372,16,12561,11383,0,23944
+34,Nepal,Local Election 2079,Pradesh 1,Jhapa,Damak Municipality,10,107410,19,28052,30123,1,58176
+35,Nepal,Local Election 2079,Pradesh 1,Jhapa,Barhadashi Rural Municipality,7,37916,14,13074,12752,0,25826
+36,Nepal,Local Election 2079,Pradesh 1,Jhapa,Birtamod Municipality,10,117355,18,28526,28881,2,57409
+37,Nepal,Local Election 2079,Pradesh 1,Jhapa,Buddhashanti Rural Municipality,7,52911,13,17754,17922,1,35677
+38,Nepal,Local Election 2079,Pradesh 1,Jhapa,Bhadrapur Municipality,10,70823,24,25394,25866,0,51260
+39,Nepal,Local Election 2079,Pradesh 1,Jhapa,Mechinagar Municipality,15,131520,35,45112,45090,0,90202
+40,Nepal,Local Election 2079,Pradesh 1,Jhapa,Shivasataxi Municipality,11,73460,27,27537,27840,1,55378
+41,Nepal,Local Election 2079,Pradesh 1,Jhapa,Haldibari Rural Municipality,5,33054,14,12015,11942,0,23957
+42,Nepal,Local Election 2079,Pradesh 1,Morang,Uralabari Municipality,9,71562,18,21357,22915,0,44272
+43,Nepal,Local Election 2079,Pradesh 1,Morang,Katahari Rural Municipality,7,48633,13,13900,12163,0,26063
+44,Nepal,Local Election 2079,Pradesh 1,Morang,Kanepokhari Rural Municipality,7,43177,13,17013,17032,0,34045
+45,Nepal,Local Election 2079,Pradesh 1,Morang,Kerabari Rural Municipality,10,34725,15,11833,12157,0,23990
+46,Nepal,Local Election 2079,Pradesh 1,Morang,Gramthan Rural Municipality,7,36500,12,12921,13021,0,25942
+47,Nepal,Local Election 2079,Pradesh 1,Morang,Jahada Rural Municipality,7,47836,12,14089,11626,0,25715
+48,Nepal,Local Election 2079,Pradesh 1,Morang,Dhanpalthan Rural Municipality,7,45204,13,13844,11932,0,25776
+49,Nepal,Local Election 2079,Pradesh 1,Morang,Patahrishanishchare Municipality,10,72689,20,24878,26452,0,51330
+50,Nepal,Local Election 2079,Pradesh 1,Morang,Budhiganga Rural Municipality,7,51640,15,14337,13822,0,28159
+51,Nepal,Local Election 2079,Pradesh 1,Morang,Belbari Municipality,11,81837,26,27805,29400,4,57209
+52,Nepal,Local Election 2079,Pradesh 1,Morang,Miklajung Rural Municipality,9,33315,14,12008,12085,0,18504
+53,Nepal,Local Election 2079,Pradesh 1,Morang,Rangeli Municipality,9,57814,22,19831,17356,0,37187
+54,Nepal,Local Election 2079,Pradesh 1,Morang,Ratuwamai Municipality,10,61355,24,22364,21209,1,43574
+55,Nepal,Local Election 2079,Pradesh 1,Morang,Letang Municipality,9,38675,14,13835,14586,0,28421
+56,Nepal,Local Election 2079,Pradesh 1,Morang,Biratnagar Metropolitan,19,244750,29,70524,62618,0,133142
+57,Nepal,Local Election 2079,Pradesh 1,Morang,Sunwarshi Municipality,9,56169,18,18183,16366,0,34549
+58,Nepal,Local Election 2079,Pradesh 1,Morang,Sundarharaicha Municipality,12,121305,25,34726,37029,1,71756
+59,Nepal,Local Election 2079,Pradesh 1,Sunsari,Itahari Submetropolitan,20,198098,25,49925,54700,1,104626
+60,Nepal,Local Election 2079,Pradesh 1,Sunsari,Inaruwa Municipality,10,75920,19,22092,20656,0,42748
+61,Nepal,Local Election 2079,Pradesh 1,Sunsari,Koshi Rural Municipality,8,48768,9,14691,11775,0,26466
+62,Nepal,Local Election 2079,Pradesh 1,Sunsari,Gadhi Rural Municipality,6,39478,9,12398,11419,0,23817
+63,Nepal,Local Election 2079,Pradesh 1,Sunsari,Duhabi Municipality,12,67051,12,19200,17530,0,36730
+64,Nepal,Local Election 2079,Pradesh 1,Sunsari,Dewanganj Rural Municipality,7,39367,7,12788,10790,0,23578
+65,Nepal,Local Election 2079,Pradesh 1,Sunsari,Dharan Submetropolitan,20,173096,28,47408,52916,0,100324
+66,Nepal,Local Election 2079,Pradesh 1,Sunsari,Barahchhetra Municipality,11,91891,16,31429,32179,0,63608
+67,Nepal,Local Election 2079,Pradesh 1,Sunsari,Barju Rural Municipality,6,36533,10,11881,10586,0,22467
+68,Nepal,Local Election 2079,Pradesh 1,Sunsari,Bhokraha Narshimha Rural Municipality,8,49371,10,13450,10651,0,24101
+69,Nepal,Local Election 2079,Pradesh 1,Sunsari,Ramdhuni Municipality,9,63378,12,20103,21374,1,41478
+70,Nepal,Local Election 2079,Pradesh 1,Sunsari,Harinagar Rural Municipality,7,49501,9,13781,11041,0,24822
+71,Nepal,Local Election 2079,Pradesh 1,Dhankuta,Chaubise Rural Municipality,8,17914,21,7080,7047,0,14127
+72,Nepal,Local Election 2079,Pradesh 1,Dhankuta,Chhathar Jorpati Rural Municipality,6,16477,12,6690,6852,0,13542
+73,Nepal,Local Election 2079,Pradesh 1,Dhankuta,Dhankuta Municipality,10,36156,15,11034,11937,0,22971
+74,Nepal,Local Election 2079,Pradesh 1,Dhankuta,Pakhribas Municipality,10,19256,15,8497,8590,0,17087
+75,Nepal,Local Election 2079,Pradesh 1,Dhankuta,Mahalaxmi Municipality,9,22196,21,9318,9142,0,18460
+76,Nepal,Local Election 2079,Pradesh 1,Dhankuta,Shahidbhumi Rural Municipality,7,17784,13,6923,6613,0,13536
+77,Nepal,Local Election 2079,Pradesh 1,Dhankuta,Sangurigadhi Rural Municipality,10,19601,21,8174,8067,0,16241
+78,Nepal,Local Election 2079,Pradesh 1,Sankhuwasabha,Khandbari Municipality,11,36102,15,11089,11001,0,22090
+79,Nepal,Local Election 2079,Pradesh 1,Sankhuwasabha,Chichila Rural Municipality,5,6720,5,2979,2715,0,5694
+80,Nepal,Local Election 2079,Pradesh 1,Sankhuwasabha,Chainpur Municipality,11,27078,15,10456,10086,0,20542
+81,Nepal,Local Election 2079,Pradesh 1,Sankhuwasabha,Dharmadevi Municipality,9,16300,11,6683,6502,0,13185
+82,Nepal,Local Election 2079,Pradesh 1,Sankhuwasabha,Panchakhapan Municipality,9,16391,9,6845,6091,0,12936
+83,Nepal,Local Election 2079,Pradesh 1,Sankhuwasabha,Bhotkhola Rural Municipality,5,6509,9,2766,2531,0,5297
+84,Nepal,Local Election 2079,Pradesh 1,Sankhuwasabha,Makalu Rural Municipality,6,13492,10,5328,4610,0,9938
+85,Nepal,Local Election 2079,Pradesh 1,Sankhuwasabha,Madi Municipality,9,13428,9,5761,5679,0,11440
+86,Nepal,Local Election 2079,Pradesh 1,Sankhuwasabha,Sabhapokhari Rural Municipality,6,10005,8,4253,3691,0,7944
+87,Nepal,Local Election 2079,Pradesh 1,Sankhuwasabha,Silichong Rural Municipality,5,10432,12,4518,4147,0,8665
+88,Nepal,Local Election 2079,Pradesh 1,Bhojpur,Arun Rural Municipality,7,14853,8,6656,6180,0,12836
+89,Nepal,Local Election 2079,Pradesh 1,Bhojpur,Aamchowk Rural Municipality,10,15237,11,6638,5916,0,12554
+90,Nepal,Local Election 2079,Pradesh 1,Bhojpur,Temkemaiyum Rural Municipality,9,15491,11,7139,6479,0,13618
+91,Nepal,Local Election 2079,Pradesh 1,Bhojpur,Pauwadungma Rural Municipality,6,12170,6,5500,5225,0,10725
+92,Nepal,Local Election 2079,Pradesh 1,Bhojpur,Bhojpur Municipality,12,26126,12,9870,9619,1,19490
+93,Nepal,Local Election 2079,Pradesh 1,Bhojpur,Ramprasad Rai Rural Municipality,8,15632,10,6222,5750,0,11972
+94,Nepal,Local Election 2079,Pradesh 1,Bhojpur,Shadananda Municipality,14,29777,14,11494,10303,0,21797
+95,Nepal,Local Election 2079,Pradesh 1,Bhojpur,Salpasilichho Rural Municipality,6,12229,6,4624,4130,0,8754
+96,Nepal,Local Election 2079,Pradesh 1,Bhojpur,Hatuwagadhi Rural Municipality,9,16302,9,7078,7102,0,14180
+97,Nepal,Local Election 2079,Pradesh 1,Terhathum,Aathrai Rural Municipality,7,18210,14,7288,6842,0,14130
+98,Nepal,Local Election 2079,Pradesh 1,Terhathum,Chhathar Rural Municipality,6,14245,8,6024,6007,0,12031
+99,Nepal,Local Election 2079,Pradesh 1,Terhathum,Phedap Rural Municipality,5,15236,10,6742,6153,0,12895
+100,Nepal,Local Election 2079,Pradesh 1,Terhathum,Menchayam Rural Municipality,6,6698,6,3236,3119,0,6355
+101,Nepal,Local Election 2079,Pradesh 1,Terhathum,Myanglung Municipality,10,19078,10,7321,7416,0,14737
+102,Nepal,Local Election 2079,Pradesh 1,Terhathum,Laligurans Municipality,9,15418,9,6362,6385,0,12747
+103,Nepal,Local Election 2079,Pradesh 1,Okhaldhunga,Khijidemba Rural Municipality,9,15867,10,6314,5984,0,12298
+104,Nepal,Local Election 2079,Pradesh 1,Okhaldhunga,Champadevi Rural Municipality,10,16528,10,7692,7355,0,15047
+105,Nepal,Local Election 2079,Pradesh 1,Okhaldhunga,Chisankhugadhi Rural Municipality,8,13761,9,5948,5672,0,11620
+106,Nepal,Local Election 2079,Pradesh 1,Okhaldhunga,Manebhanjyang Rural Municipality,9,19883,9,7741,7649,0,15390
+107,Nepal,Local Election 2079,Pradesh 1,Okhaldhunga,Molung Rural Municipality,8,16944,8,6641,6545,1,13187
+108,Nepal,Local Election 2079,Pradesh 1,Okhaldhunga,Likhu Rural Municipality,9,11930,9,6881,6530,0,13411
+109,Nepal,Local Election 2079,Pradesh 1,Okhaldhunga,Siddhicharan Municipality,12,27977,14,10077,10713,0,20790
+110,Nepal,Local Election 2079,Pradesh 1,Okhaldhunga,Sunkoshi Rural Municipality,10,18024,10,7868,7474,0,15342
+111,Nepal,Local Election 2079,Pradesh 1,Khotang,Ainselukhark Rural Municipality,7,13581,13,5917,5578,0,11495
+112,Nepal,Local Election 2079,Pradesh 1,Khotang,Kepilasagadhi Rural Municipality,7,13339,13,5758,5080,0,10838
+113,Nepal,Local Election 2079,Pradesh 1,Khotang,Khotehang Rural Municipality,9,16952,15,7939,7306,0,15245
+114,Nepal,Local Election 2079,Pradesh 1,Khotang,Jhantedhunga Rural Municipality,6,12066,12,5406,4807,0,10213
+115,Nepal,Local Election 2079,Pradesh 1,Khotang,Diktel Rupakot Majhuwagadhi Municipality,15,43295,24,17373,16705,0,34078
+116,Nepal,Local Election 2079,Pradesh 1,Khotang,Diprung Chuichumma Rural Municipality,7,16549,13,6926,6505,0,13431
+117,Nepal,Local Election 2079,Pradesh 1,Khotang,Barahapokhari Rural Municipality,6,11461,10,4926,4438,0,9364
+118,Nepal,Local Election 2079,Pradesh 1,Khotang,Rawa Besi Rural Municipality,6,11218,10,5115,4504,0,9619
+119,Nepal,Local Election 2079,Pradesh 1,Khotang,Sakela Rural Municipality,5,9605,8,4542,4006,0,8548
+120,Nepal,Local Election 2079,Pradesh 1,Khotang,Halesi Tuwachung Municipality,11,27274,18,11104,9817,0,20921
+121,Nepal,Local Election 2079,Pradesh 1,Solukhumbu,Khumbupasanglahmu Rural Municipality,5,9226,11,2969,2986,0,5955
+122,Nepal,Local Election 2079,Pradesh 1,Solukhumbu,Thulung Dudhkoishi Rural Municipality,9,18459,23,7760,7177,0,14937
+123,Nepal,Local Election 2079,Pradesh 1,Solukhumbu,Nechasalyan Rural Municipality,5,10828,15,5221,5165,0,10386
+124,Nepal,Local Election 2079,Pradesh 1,Solukhumbu,Mapya Dudhkoshi Rural Municipality,7,12746,15,5487,4981,0,10468
+125,Nepal,Local Election 2079,Pradesh 1,Solukhumbu,Mahakulung Rural Municipality,5,11971,11,4169,3615,0,7784
+126,Nepal,Local Election 2079,Pradesh 1,Solukhumbu,Likhupike Rural Municipality,5,5264,7,2572,2335,0,4907
+127,Nepal,Local Election 2079,Pradesh 1,Solukhumbu,Sotang Rural Municipality,5,9261,11,3584,3206,0,6790
+128,Nepal,Local Election 2079,Pradesh 1,Solukhumbu,Solududhakunda Municipality,11,27013,29,9498,9294,0,18792
+129,Nepal,Local Election 2079,Pradesh 1,Udayapur,Udayapurgadhi Rural Municipality,8,28929,11,10647,9605,0,20252
+130,Nepal,Local Election 2079,Pradesh 1,Udayapur,Katari Municipality,14,60168,15,19858,18588,0,38446
+131,Nepal,Local Election 2079,Pradesh 1,Udayapur,Chaudandigadhi Municipality,10,53537,16,18883,19611,0,38494
+132,Nepal,Local Election 2079,Pradesh 1,Udayapur,Tapli Rural Municipality,5,13377,7,5108,4823,0,9931
+133,Nepal,Local Election 2079,Pradesh 1,Udayapur,Triyuga Municipality,16,104375,25,29693,30351,2,60046
+134,Nepal,Local Election 2079,Pradesh 1,Udayapur,Belaka Municipality,9,51458,9,16696,16310,0,33006
+135,Nepal,Local Election 2079,Pradesh 1,Udayapur,Rautamai Rural Municipality,8,20418,8,7585,6884,0,14469
+136,Nepal,Local Election 2079,Pradesh 1,Udayapur,Limchungbung Rural Municipality,5,9789,7,4415,4079,0,8494
+137,Nepal,Local Election 2079,Madhesh Pradesh,Saptari,Agnisair Krishna Savaran Rural Municipality,6,32047,13,9310,9623,4,18937
+138,Nepal,Local Election 2079,Madhesh Pradesh,Saptari,Kanchanrup Municipality,12,58882,25,17872,17433,4,35309
+139,Nepal,Local Election 2079,Madhesh Pradesh,Saptari,Khadak Municipality,11,54193,24,15309,15723,4,31036
+140,Nepal,Local Election 2079,Madhesh Pradesh,Saptari,Chhinnamasta Rural Municipality,7,30664,13,9581,8176,0,17757
+141,Nepal,Local Election 2079,Madhesh Pradesh,Saptari,Dakneshwori Municipality,10,48314,21,15023,13412,0,28435
+142,Nepal,Local Election 2079,Madhesh Pradesh,Saptari,Tirahut Rural Municipality,5,23987,11,7740,6914,0,14654
+143,Nepal,Local Election 2079,Madhesh Pradesh,Saptari,Tilathi Koiladi Rural Municipality,8,34257,16,10551,9090,0,19641
+144,Nepal,Local Election 2079,Madhesh Pradesh,Saptari,Bode barsine Municipality,10,46343,18,14399,13256,0,27655
+145,Nepal,Local Election 2079,Madhesh Pradesh,Saptari,Mahadeva Rural Municipality,6,31048,13,8936,7914,0,16850
+146,Nepal,Local Election 2079,Madhesh Pradesh,Saptari,Rajgadh Rural Municipality,6,32975,13,9916,8644,0,18560
+147,Nepal,Local Election 2079,Madhesh Pradesh,Saptari,Rajbiraj Municipality,16,71946,27,21170,18520,2,39692
+148,Nepal,Local Election 2079,Madhesh Pradesh,Saptari,Rupani Rural Municipality,6,30064,12,9485,8679,1,18165
+149,Nepal,Local Election 2079,Madhesh Pradesh,Saptari,Balan Bihul Rural Municipality,6,24059,9,7620,6798,0,14418
+150,Nepal,Local Election 2079,Madhesh Pradesh,Saptari,Bishnupur Rural Municipality,7,28072,10,8085,6981,1,15067
+151,Nepal,Local Election 2079,Madhesh Pradesh,Saptari,Shambhunath Municipality,12,39423,17,11849,12010,4,23863
+152,Nepal,Local Election 2079,Madhesh Pradesh,Saptari,Saptakoshi Municipality,11,23891,11,7659,7802,0,15461
+153,Nepal,Local Election 2079,Madhesh Pradesh,Saptari,Surunga Municipality,11,49668,23,14549,14960,1,29510
+154,Nepal,Local Election 2079,Madhesh Pradesh,Saptari,Hanumannagar Kalankalini Municipality,14,51926,21,14838,12597,0,27435
+155,Nepal,Local Election 2079,Madhesh Pradesh,Siraha,Arnama Rural Municipality,5,28137,7,8128,6795,0,14923
+156,Nepal,Local Election 2079,Madhesh Pradesh,Siraha,Aurahi Municipality,5,27194,9,8068,6997,0,15065
+157,Nepal,Local Election 2079,Madhesh Pradesh,Siraha,Karjanha Municipality,11,38940,13,10685,9782,0,20467
+158,Nepal,Local Election 2079,Madhesh Pradesh,Siraha,Kalyanpur Municipality,12,59986,22,17426,15825,0,33251
+159,Nepal,Local Election 2079,Madhesh Pradesh,Siraha,Golbazar Municipality,13,65263,15,17733,15978,0,33711
+160,Nepal,Local Election 2079,Madhesh Pradesh,Siraha,Dhangadhimai Municipality,14,54244,14,16200,14498,1,30699
+161,Nepal,Local Election 2079,Madhesh Pradesh,Siraha,Naraha Rural Municipality,5,23656,6,6517,5466,0,11983
+162,Nepal,Local Election 2079,Madhesh Pradesh,Siraha,Nawarajpur Rural Municipality,5,20832,5,6925,5578,0,12503
+163,Nepal,Local Election 2079,Madhesh Pradesh,Siraha,Bariyarpatti Rural Municipality,5,29859,8,8778,7396,0,16174
+164,Nepal,Local Election 2079,Madhesh Pradesh,Siraha,Bhagawanpur Rural Municipality,5,23324,6,7299,6533,0,13832
+165,Nepal,Local Election 2079,Madhesh Pradesh,Siraha,Mirchaiya Municipality,12,60086,17,16238,14468,0,30706
+166,Nepal,Local Election 2079,Madhesh Pradesh,Siraha,Laxmipur Patari Rural Municipality,6,31103,11,10055,8946,0,19001
+167,Nepal,Local Election 2079,Madhesh Pradesh,Siraha,Lahan Municipality,24,102955,31,29222,26974,0,56196
+168,Nepal,Local Election 2079,Madhesh Pradesh,Siraha,Bishnupur Rural Municipality,5,28072,10,8085,6981,1,15067
+169,Nepal,Local Election 2079,Madhesh Pradesh,Siraha,Sakhuwanankarkatti Rural Municipality,5,20951,7,7025,6426,0,13451
+170,Nepal,Local Election 2079,Madhesh Pradesh,Siraha,Siraha Municipality,22,96543,29,28957,25362,0,54319
+171,Nepal,Local Election 2079,Madhesh Pradesh,Siraha,Sukhipur Municipality,10,42547,13,13420,11412,1,24833
+172,Nepal,Local Election 2079,Madhesh Pradesh,Dhanusha,Aaurahi Rural Municipality,6,24338,10,7662,6806,0,14468
+173,Nepal,Local Election 2079,Madhesh Pradesh,Dhanusha,Kamala Municipality,9,45477,17,13506,11760,0,25266
+174,Nepal,Local Election 2079,Madhesh Pradesh,Dhanusha,Chhireshwornath Municipality,10,53031,15,13272,11897,0,25169
+175,Nepal,Local Election 2079,Madhesh Pradesh,Dhanusha,Ganeshman Chaarnath Municipality,11,44900,17,12674,11724,1,24399
+176,Nepal,Local Election 2079,Madhesh Pradesh,Dhanusha,Janaknandani Rural Municipality,6,28267,14,8925,7708,0,16633
+177,Nepal,Local Election 2079,Madhesh Pradesh,Dhanusha,Janakpurdham Submetropolitan,25,195438,58,47508,39258,3,86769
+178,Nepal,Local Election 2079,Madhesh Pradesh,Dhanusha,Dhanusadham Municipality,9,53035,19,14539,13718,0,28257
+179,Nepal,Local Election 2079,Madhesh Pradesh,Dhanusha,Dhanauji Rural Municipality,5,21960,9,7379,6306,0,13685
+180,Nepal,Local Election 2079,Madhesh Pradesh,Dhanusha,Nagarain Municipality,9,37949,15,12602,10742,0,23344
+181,Nepal,Local Election 2079,Madhesh Pradesh,Dhanusha,Bateshwor Rural Municipality,5,21473,9,7307,6498,0,13805
+182,Nepal,Local Election 2079,Madhesh Pradesh,Dhanusha,Mithila Municipality,11,47408,17,15588,14206,1,29795
+183,Nepal,Local Election 2079,Madhesh Pradesh,Dhanusha,Mithila Bihari Municipality,10,38008,14,12315,10713,0,23028
+184,Nepal,Local Election 2079,Madhesh Pradesh,Dhanusha,Mukhiyapatti Musaharmiya Rural Municipality,6,29351,12,8915,7263,0,16178
+185,Nepal,Local Election 2079,Madhesh Pradesh,Dhanusha,Lakshminiya Rural Municipality,7,33212,14,10372,9310,1,19683
+186,Nepal,Local Election 2079,Madhesh Pradesh,Dhanusha,Bideha Municipality,9,37881,16,10714,9528,0,20242
+187,Nepal,Local Election 2079,Madhesh Pradesh,Dhanusha,Sahidnagar Municipality,9,53546,21,16039,13652,0,29691
+188,Nepal,Local Election 2079,Madhesh Pradesh,Dhanusha,Sabaila Municipality,13,62510,27,16711,15509,0,32220
+189,Nepal,Local Election 2079,Madhesh Pradesh,Dhanusha,Hansapur Municipality,9,44929,19,12812,11944,0,24756
+190,Nepal,Local Election 2079,Madhesh Pradesh,Mahottari,Ekdanra Rural Municipality,6,32060,16,10220,8309,0,18529
+191,Nepal,Local Election 2079,Madhesh Pradesh,Mahottari,Aurahi Municipality,9,40834,9,10605,8817,0,15065
+192,Nepal,Local Election 2079,Madhesh Pradesh,Mahottari,Gaushala Municipality,12,73008,24,20831,16885,0,37716
+193,Nepal,Local Election 2079,Madhesh Pradesh,Mahottari,Jaleswor Municipality,12,63501,30,19667,16994,0,36661
+194,Nepal,Local Election 2079,Madhesh Pradesh,Mahottari,Pipra Rural Municipality,7,39500,15,12257,10950,0,23207
+195,Nepal,Local Election 2079,Madhesh Pradesh,Mahottari,Bardibas Municipality,14,68353,28,22890,21569,1,44460
+196,Nepal,Local Election 2079,Madhesh Pradesh,Mahottari,Balwa Municipality,11,50031,18,15692,12640,0,28332
+197,Nepal,Local Election 2079,Madhesh Pradesh,Mahottari,Bhangaha Municipality,9,56570,15,15281,13666,0,28947
+198,Nepal,Local Election 2079,Madhesh Pradesh,Mahottari,Matihani Municipality,9,36063,14,10506,8693,0,19199
+199,Nepal,Local Election 2079,Madhesh Pradesh,Mahottari,Manra Siswa Municipality,10,49126,24,16638,13571,0,30209
+200,Nepal,Local Election 2079,Madhesh Pradesh,Mahottari,Mahottari Rural Municipality,6,32652,12,9472,7964,0,17436
+201,Nepal,Local Election 2079,Madhesh Pradesh,Mahottari,Ramgopalpur Municipality,9,36594,11,10934,8824,0,19758
+202,Nepal,Local Election 2079,Madhesh Pradesh,Mahottari,Loharpatti Municipality,9,46336,16,13397,11909,0,25306
+203,Nepal,Local Election 2079,Madhesh Pradesh,Mahottari,Samsi Rural Municipality,7,38676,13,11012,8888,0,19900
+204,Nepal,Local Election 2079,Madhesh Pradesh,Mahottari,Sonama Rural Municipality,8,51736,11,12801,9694,0,22495
+205,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Ishworpur Municipality,15,68626,25,20150,17732,1,37883
+206,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Kabilasi Municipality,10,44688,19,13951,11458,0,25409
+207,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Kaudena Rural Municipality,7,29226,11,9024,7461,4,16489
+208,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Godaita Municipality,12,54346,20,15706,12451,0,28157
+209,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Chakraghatta Rural Municipality,9,29166,12,9580,7582,1,17163
+210,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Chandranagar Rural Municipality,7,37517,12,10388,8602,0,18990
+211,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Dhankaul Rural Municipality,7,28500,10,7795,5935,0,13730
+212,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Parsa Rural Municipality,6,24039,9,7047,5480,0,12527
+213,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Barahathawa Municipality,18,83257,25,23715,19487,0,43202
+214,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Balara Municipality,11,47602,23,13323,10129,0,23452
+215,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Basbariya Rural Municipality,6,26406,10,8052,6389,0,14441
+216,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Bramhapuri Rural Municipality,7,27878,11,9954,8010,0,17964
+217,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Malangawa Municipality,12,53204,19,15746,13246,0,28992
+218,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Ramnagar Rural Municipality,7,31687,12,8959,6839,1,15799
+219,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Lalbandi Municipality,17,67507,27,20215,19511,1,39727
+220,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Bagmati Municipality,12,45459,17,15862,15740,0,31602
+221,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Bishnu Rural Municipality,8,25870,11,8374,6349,0,14723
+222,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Haripur Municipality,9,43609,14,12061,10761,0,22822
+223,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Haripurwa Municipality,9,36523,13,11122,8798,0,19920
+224,Nepal,Local Election 2079,Madhesh Pradesh,Sarlahi,Hariwan Municipality,11,51333,18,16114,15332,1,31447
+225,Nepal,Local Election 2079,Madhesh Pradesh,Rautahat,Ishanath Municipality,9,53402,17,13527,10756,0,24283
+226,Nepal,Local Election 2079,Madhesh Pradesh,Rautahat,Kaṭahariya Municipality,9,47455,16,12246,9545,0,21791
+227,Nepal,Local Election 2079,Madhesh Pradesh,Rautahat,Gadimai Municipality,9,49642,18,14281,11271,0,25552
+228,Nepal,Local Election 2079,Madhesh Pradesh,Rautahat,Garuda Municipality,9,60009,16,15358,12554,0,27912
+229,Nepal,Local Election 2079,Madhesh Pradesh,Rautahat,Gujara Municipality,9,54089,22,14114,13077,0,27191
+230,Nepal,Local Election 2079,Madhesh Pradesh,Rautahat,Gaur Municipality,9,40368,13,11065,9492,0,20557
+231,Nepal,Local Election 2079,Madhesh Pradesh,Rautahat,Chandrapur Municipality,10,83350,26,24719,24065,0,48784
+232,Nepal,Local Election 2079,Madhesh Pradesh,Rautahat,Durga Bhagwati Rural Municipality,5,23226,10,7694,6180,0,13874
+233,Nepal,Local Election 2079,Madhesh Pradesh,Rautahat,Dewahhi Gonahi Municipality,9,38808,14,9982,7828,1,17811
+234,Nepal,Local Election 2079,Madhesh Pradesh,Rautahat,Paroha Municipality,9,46749,16,11658,9487,0,21145
+235,Nepal,Local Election 2079,Madhesh Pradesh,Rautahat,Phatuwa Bijayapur Municipality,11,44358,16,11798,9658,0,21456
+236,Nepal,Local Election 2079,Madhesh Pradesh,Rautahat,Baudhimai Rural Municipality,9,39348,13,10702,8690,0,19392
+237,Nepal,Local Election 2079,Madhesh Pradesh,Rautahat,Madhav Narayan Municipality,9,40974,15,12758,10275,0,23033
+238,Nepal,Local Election 2079,Madhesh Pradesh,Rautahat,Maulapur Municipality,9,32468,10,8169,6615,0,14784
+239,Nepal,Local Election 2079,Madhesh Pradesh,Rautahat,Yemunamai Rural Municipality,5,28607,6,7506,6018,0,13524
+240,Nepal,Local Election 2079,Madhesh Pradesh,Rautahat,Rajdevi Municipality,9,33836,14,10249,8210,0,18459
+241,Nepal,Local Election 2079,Madhesh Pradesh,Rautahat,Rajpur Municipality,9,54372,17,13565,10108,0,23673
+242,Nepal,Local Election 2079,Madhesh Pradesh,Rautahat,Brindaban Municipality,9,50144,17,13554,11217,0,24771
+243,Nepal,Local Election 2079,Madhesh Pradesh,Bara,Adarshkotwal Rural Municipality,8,29586,9,8826,6886,1,15713
+244,Nepal,Local Election 2079,Madhesh Pradesh,Bara,Karaiyamai Rural Municipality,8,29045,15,9081,7579,0,16660
+245,Nepal,Local Election 2079,Madhesh Pradesh,Bara,Kalaiya Submetropolitan,27,141179,56,39662,30693,1,70356
+246,Nepal,Local Election 2079,Madhesh Pradesh,Bara,Kolhabi Municipality,11,46200,25,14741,14243,2,28986
+247,Nepal,Local Election 2079,Madhesh Pradesh,Bara,Jitpur Simara Submetropolitan,24,119148,43,36962,33102,0,70064
+248,Nepal,Local Election 2079,Madhesh Pradesh,Bara,Devtal Rural Municipality,7,25082,10,8308,6320,0,14628
+249,Nepal,Local Election 2079,Madhesh Pradesh,Bara,Nijgadh Municipality,13,36591,16,14182,14192,2,28376
+250,Nepal,Local Election 2079,Madhesh Pradesh,Bara,Pacharauta Municipality,9,40252,18,11181,8662,0,19843
+251,Nepal,Local Election 2079,Madhesh Pradesh,Bara,Parwanipur Rural Municipality,5,22466,9,8055,6314,2,14371
+252,Nepal,Local Election 2079,Madhesh Pradesh,Bara,Prasauni Rural Municipality,7,21747,9,9019,7139,0,16158
+253,Nepal,Local Election 2079,Madhesh Pradesh,Bara,Pheta Rural Municipality,7,28922,11,9475,7248,3,16726
+254,Nepal,Local Election 2079,Madhesh Pradesh,Bara,Baragadhi Rural Municipality,6,29836,11,9039,7401,0,16440
+255,Nepal,Local Election 2079,Madhesh Pradesh,Bara,Mahagadhimai Municipality,11,59744,25,18069,14385,0,32454
+256,Nepal,Local Election 2079,Madhesh Pradesh,Bara,Bishrampur Rural Municipality,5,23891,9,8590,6902,0,15492
+257,Nepal,Local Election 2079,Madhesh Pradesh,Bara,Simraungadh Municipality,11,53103,25,16449,12975,0,29424
+258,Nepal,Local Election 2079,Madhesh Pradesh,Bara,Suwarna Rural Municipality,8,35875,12,10187,7449,0,17636
+259,Nepal,Local Election 2079,Madhesh Pradesh,Parsa,Kalikamai Rural Municipality,5,23740,6,7363,5610,2,12975
+260,Nepal,Local Election 2079,Madhesh Pradesh,Parsa,Chhipaharmai Rural Municipality,5,26742,8,8968,6695,1,15664
+261,Nepal,Local Election 2079,Madhesh Pradesh,Parsa,Jagarnathpur Rural Municipality,6,32737,11,10328,7733,0,18061
+262,Nepal,Local Election 2079,Madhesh Pradesh,Parsa,Jirabhawani Rural Municipality,5,22602,9,7430,6496,3,13929
+263,Nepal,Local Election 2079,Madhesh Pradesh,Parsa,Thori Rural Municipality,5,17494,7,7590,7118,0,14708
+264,Nepal,Local Election 2079,Madhesh Pradesh,Parsa,Dhobini Rural Municipality,5,22846,7,6884,5383,0,12267
+265,Nepal,Local Election 2079,Madhesh Pradesh,Parsa,Pakahamainpur Rural Municipality,5,22957,6,7004,5310,0,12314
+266,Nepal,Local Election 2079,Madhesh Pradesh,Parsa,Paterwasugauli Rural Municipality,5,25508,8,7640,6280,0,13920
+267,Nepal,Local Election 2079,Madhesh Pradesh,Parsa,Parsagadhi Municipality,9,41477,12,12457,10349,1,22807
+268,Nepal,Local Election 2079,Madhesh Pradesh,Parsa,Pokhariya Municipality,10,38985,11,11238,8425,1,19664
+269,Nepal,Local Election 2079,Madhesh Pradesh,Parsa,Bahudaramai Municipality,9,43780,11,14241,10069,3,24313
+270,Nepal,Local Election 2079,Madhesh Pradesh,Parsa,Bindabasini Rural Municipality,5,24466,9,8509,6295,0,14804
+271,Nepal,Local Election 2079,Madhesh Pradesh,Parsa,Birgunj Metropolitan,32,268273,55,70810,53833,4,124647
+272,Nepal,Local Election 2079,Madhesh Pradesh,Parsa,SakhuwaPrasauni Rural Municipality,6,35712,7,11075,8687,1,19763
+273,Nepal,Local Election 2079,Bagmati Pradesh,Sindhuli,Ghanglekh Rural Municipality,5,12701,9,5152,4823,0,9975
+274,Nepal,Local Election 2079,Bagmati Pradesh,Sindhuli,Kamalamai Municipality,14,71811,37,22470,22558,0,45028
+275,Nepal,Local Election 2079,Bagmati Pradesh,Sindhuli,Golanjor Rural Municipality,7,19012,12,7643,6739,0,14382
+276,Nepal,Local Election 2079,Bagmati Pradesh,Sindhuli,Tinpatan Rural Municipality,11,35145,19,13350,12554,0,25904
+277,Nepal,Local Election 2079,Bagmati Pradesh,Sindhuli,Dudhouli Municipality,14,70679,24,23655,23003,1,46659
+278,Nepal,Local Election 2079,Bagmati Pradesh,Sindhuli,Phikkal Rural Municipality,6,14359,13,6312,5613,0,11925
+279,Nepal,Local Election 2079,Bagmati Pradesh,Sindhuli,Marin Thakur Rural Municipality,7,28988,9,8803,8043,0,16846
+280,Nepal,Local Election 2079,Bagmati Pradesh,Sindhuli,Sunkoshi Rural Municipality,7,18136,10,9427,8727,0,15342
+281,Nepal,Local Election 2079,Bagmati Pradesh,Sindhuli,Hariharpurgadhi Rural Municipality,8,26829,9,9130,8333,0,17463
+282,Nepal,Local Election 2079,Bagmati Pradesh,Ramechhap,Umakunda Rural Municipality,7,16709,11,8380,7866,0,16246
+283,Nepal,Local Election 2079,Bagmati Pradesh,Ramechhap,Khadadevi Rural Municipality,9,19381,12,11610,10790,0,22400
+284,Nepal,Local Election 2079,Bagmati Pradesh,Ramechhap,Gokulganga Rural Municipality,6,18363,6,9445,9076,0,18521
+285,Nepal,Local Election 2079,Bagmati Pradesh,Ramechhap,Doramba Rural Municipality,7,17529,11,10510,10424,0,20934
+286,Nepal,Local Election 2079,Bagmati Pradesh,Ramechhap,Manthali Municipality,14,40230,19,19030,18190,0,37220
+287,Nepal,Local Election 2079,Bagmati Pradesh,Ramechhap,Ramechhap Municipality,9,25117,14,12572,12359,0,24931
+288,Nepal,Local Election 2079,Bagmati Pradesh,Ramechhap,Likhu Rural Municipality,7,18675,9,10222,9878,0,13411
+289,Nepal,Local Election 2079,Bagmati Pradesh,Ramechhap,Sunapati Rural Municipality,5,14616,9,9362,9153,0,18515
+290,Nepal,Local Election 2079,Bagmati Pradesh,Dolakha,Kalinchok Rural Municipality,9,21210,10,9568,9093,0,18661
+291,Nepal,Local Election 2079,Bagmati Pradesh,Dolakha,Gaurishankar Rural Municipality,9,15982,12,7893,7448,0,15341
+292,Nepal,Local Election 2079,Bagmati Pradesh,Dolakha,Jiri Municipality,9,15500,10,6972,7086,0,14058
+293,Nepal,Local Election 2079,Bagmati Pradesh,Dolakha,Tamakoshi Rural Municipality,7,15237,8,8000,7835,0,15835
+294,Nepal,Local Election 2079,Bagmati Pradesh,Dolakha,Baiteshwor Rural Municipality,8,17947,8,8556,8906,0,17462
+295,Nepal,Local Election 2079,Bagmati Pradesh,Dolakha,Bhimeshwor Municipality,9,35122,17,13216,13617,0,26833
+296,Nepal,Local Election 2079,Bagmati Pradesh,Dolakha,Melung Rural Municipality,7,16051,8,9216,8937,0,18153
+297,Nepal,Local Election 2079,Bagmati Pradesh,Dolakha,Bigu Rural Municipality,8,16299,12,7342,7081,0,14423
+298,Nepal,Local Election 2079,Bagmati Pradesh,Dolakha,Shailung Rural Municipality,8,18328,9,9754,9576,0,19330
+299,Nepal,Local Election 2079,Bagmati Pradesh,Sindhupalchowk,Indrawati Rural Municipality,12,25518,13,13303,12367,0,25670
+300,Nepal,Local Election 2079,Bagmati Pradesh,Sindhupalchowk,Chautara Sangachowkgadhi Municipality,14,42962,20,19157,19141,0,38298
+301,Nepal,Local Election 2079,Bagmati Pradesh,Sindhupalchowk,Jugal Rural Municipality,7,19148,11,8768,7387,0,16155
+302,Nepal,Local Election 2079,Bagmati Pradesh,Sindhupalchowk,Tripurasundhari Rural Municipality,6,12194,8,9979,10223,0,20202
+303,Nepal,Local Election 2079,Bagmati Pradesh,Sindhupalchowk,Panchpokhari Thangpal Rural Municipality,8,20978,14,10359,8868,0,19227
+304,Nepal,Local Election 2079,Bagmati Pradesh,Sindhupalchowk,Balefi Rural Municipality,8,16465,10,8653,8240,0,16893
+305,Nepal,Local Election 2079,Bagmati Pradesh,Sindhupalchowk,Barhabise Municipality,9,24158,13,11206,10509,0,21715
+306,Nepal,Local Election 2079,Bagmati Pradesh,Sindhupalchowk,Bhotekoshi Rural Municipality,5,14239,9,6912,6252,0,13164
+307,Nepal,Local Election 2079,Bagmati Pradesh,Sindhupalchowk,Melamchi Municipality,13,41170,14,20276,18929,0,39205
+308,Nepal,Local Election 2079,Bagmati Pradesh,Sindhupalchowk,Lisangkhu Pakhar Rural Municipality,7,11560,10,8546,8430,0,16976
+309,Nepal,Local Election 2079,Bagmati Pradesh,Sindhupalchowk,Sunkoshi Rural Municipality,7,16713,10,8717,8676,0,15342
+310,Nepal,Local Election 2079,Bagmati Pradesh,Sindhupalchowk,Helambu Rural Municipality,7,17723,10,9317,8269,0,17586
+311,Nepal,Local Election 2079,Bagmati Pradesh,Kavrepalanchowk,Khanikhola Rural Municipality,7,12375,9,5443,4865,1,10309
+312,Nepal,Local Election 2079,Bagmati Pradesh,Kavrepalanchowk,Chaurideurali Rural Municipality,9,14106,11,10567,9624,0,20191
+313,Nepal,Local Election 2079,Bagmati Pradesh,Kavrepalanchowk,Temal Rural Municipality,9,16959,12,11003,10105,0,21108
+314,Nepal,Local Election 2079,Bagmati Pradesh,Kavrepalanchowk,Dhulikhel Municipality,12,36183,19,12645,12863,0,25508
+315,Nepal,Local Election 2079,Bagmati Pradesh,Kavrepalanchowk,Namobuddha Municipality,11,26280,16,13292,12660,0,25952
+316,Nepal,Local Election 2079,Bagmati Pradesh,Kavrepalanchowk,Panauti Municipality,12,52078,20,18781,19364,0,38145
+317,Nepal,Local Election 2079,Bagmati Pradesh,Kavrepalanchowk,Panchkhal Municipality,13,35992,18,14911,14786,0,29697
+318,Nepal,Local Election 2079,Bagmati Pradesh,Kavrepalanchowk,Banepa Municipality,14,67629,24,18340,19241,0,37581
+319,Nepal,Local Election 2079,Bagmati Pradesh,Kavrepalanchowk,Bethanchowk Rural Municipality,6,14996,9,7276,7275,0,14551
+320,Nepal,Local Election 2079,Bagmati Pradesh,Kavrepalanchowk,Bhumlu Rural Municipality,10,15858,13,8945,8078,1,17024
+321,Nepal,Local Election 2079,Bagmati Pradesh,Kavrepalanchowk,Mandandeupur Municipality,12,31261,16,14645,13886,0,28531
+322,Nepal,Local Election 2079,Bagmati Pradesh,Kavrepalanchowk,Mahabharat Rural Municipality,8,16148,8,6543,5877,0,12420
+323,Nepal,Local Election 2079,Bagmati Pradesh,Kavrepalanchowk,Roshi Rural Municipality,12,23551,14,11792,10751,0,22543
+324,Nepal,Local Election 2079,Bagmati Pradesh,Lalitpur,Konjyosom Rural Municipality,5,9042,7,4312,4276,0,8588
+325,Nepal,Local Election 2079,Bagmati Pradesh,Lalitpur,Godawari Municipality,14,100972,31,26629,27769,1,54399
+326,Nepal,Local Election 2079,Bagmati Pradesh,Lalitpur,Mahankal Rural Municipality,6,7861,10,4623,4389,0,9012
+327,Nepal,Local Election 2079,Bagmati Pradesh,Lalitpur,Mahalaxmi Municipality,10,22196,21,9318,9142,0,18460
+328,Nepal,Local Election 2079,Bagmati Pradesh,Lalitpur,Lalitpur Metropolitan,29,299843,52,59453,63437,0,122890
+329,Nepal,Local Election 2079,Bagmati Pradesh,Lalitpur,Bagmati Rural Municipality,7,11196,17,6368,5960,0,31602
+330,Nepal,Local Election 2079,Bagmati Pradesh,Bhaktapur,Changunarayan Municipality,9,88612,21,21098,22007,0,43105
+331,Nepal,Local Election 2079,Bagmati Pradesh,Bhaktapur,Bhaktapur Municipality,10,78854,16,27656,29614,0,57270
+332,Nepal,Local Election 2079,Bagmati Pradesh,Bhaktapur,Madhyapur Thimi Municipality,9,119955,17,20531,21308,3,41842
+333,Nepal,Local Election 2079,Bagmati Pradesh,Bhaktapur,Suryabinayak Municipality,10,137971,23,22980,24385,2,47367
+334,Nepal,Local Election 2079,Bagmati Pradesh,Kathmandu,Kageshwori Manohara Municipality,9,133327,13,17360,18133,0,35493
+335,Nepal,Local Election 2079,Bagmati Pradesh,Kathmandu,Kathmandu Metropolitan,32,845767,156,144363,155878,1,300242
+336,Nepal,Local Election 2079,Bagmati Pradesh,Kathmandu,Kirtipur Municipality,10,81782,20,14641,15684,3,30328
+337,Nepal,Local Election 2079,Bagmati Pradesh,Kathmandu,Gokarneshwor Municipality,9,151200,17,16498,17400,0,33898
+338,Nepal,Local Election 2079,Bagmati Pradesh,Kathmandu,Chandragiri Municipality,15,136928,22,22800,24463,1,47264
+339,Nepal,Local Election 2079,Bagmati Pradesh,Kathmandu,Tokha Municipality,11,135741,15,16564,18109,3,34676
+340,Nepal,Local Election 2079,Bagmati Pradesh,Kathmandu,Tarakeshwor Municipality,11,151508,8,17133,17949,0,14963
+341,Nepal,Local Election 2079,Bagmati Pradesh,Kathmandu,Dakshinkali Municipality,9,26744,15,8828,9088,0,17916
+342,Nepal,Local Election 2079,Bagmati Pradesh,Kathmandu,Nagarjun Municipality,10,115507,15,15459,16559,0,32018
+343,Nepal,Local Election 2079,Bagmati Pradesh,Kathmandu,Budhanilakantha Municipality,13,179688,19,23275,25028,1,48304
+344,Nepal,Local Election 2079,Bagmati Pradesh,Kathmandu,Shankharapur Municipality,9,30414,14,11300,11254,0,22554
+345,Nepal,Local Election 2079,Bagmati Pradesh,Nuwakot,Kakani Rural Municipality,8,24323,11,11333,10563,1,21897
+346,Nepal,Local Election 2079,Bagmati Pradesh,Nuwakot,Kispang Rural Municipality,5,14122,6,6079,6082,0,12161
+347,Nepal,Local Election 2079,Bagmati Pradesh,Nuwakot,Tadi Rural Municipality,6,16055,7,8107,7253,0,15360
+348,Nepal,Local Election 2079,Bagmati Pradesh,Nuwakot,Tarkeshwar Rural Municipality,6,14164,14,7578,7385,0,35082
+349,Nepal,Local Election 2079,Bagmati Pradesh,Nuwakot,Dupcheshwar Rural Municipality,7,21019,15,9248,8126,1,17375
+350,Nepal,Local Election 2079,Bagmati Pradesh,Nuwakot,Panchakanya Rural Municipality,5,13864,6,7880,7084,0,14964
+351,Nepal,Local Election 2079,Bagmati Pradesh,Nuwakot,Belkotgadhi Municipality,13,35200,16,17661,15820,0,33481
+352,Nepal,Local Election 2079,Bagmati Pradesh,Nuwakot,Myagang Rural Municipality,6,12417,8,6177,6401,0,12578
+353,Nepal,Local Election 2079,Bagmati Pradesh,Nuwakot,Likhu Rural Municipality,6,17737,7,7938,7530,0,15468
+354,Nepal,Local Election 2079,Bagmati Pradesh,Nuwakot,Bidur Municipality,13,60111,26,22093,22086,0,44179
+355,Nepal,Local Election 2079,Bagmati Pradesh,Nuwakot,Shivapuri Rural Municipality,8,16979,12,10698,9782,1,20481
+356,Nepal,Local Election 2079,Bagmati Pradesh,Nuwakot,Suryagadhi Rural Municipality,5,14929,10,7610,6917,0,14527
+357,Nepal,Local Election 2079,Bagmati Pradesh,Rasuwa,Aamachhodingmo Rural Municipality,5,6673,6,2653,2407,0,5060
+358,Nepal,Local Election 2079,Bagmati Pradesh,Rasuwa,Uttargaya Rural Municipality,5,8571,6,4264,4138,0,8402
+359,Nepal,Local Election 2079,Bagmati Pradesh,Rasuwa,Kalika Rural Municipality,5,10172,6,4319,4337,0,8656
+360,Nepal,Local Election 2079,Bagmati Pradesh,Rasuwa,Gosaikunda Rural Municipality,6,8043,8,2988,2902,0,5890
+361,Nepal,Local Election 2079,Bagmati Pradesh,Rasuwa,Naukunda Rural Municipality,6,12095,8,5465,5072,0,10537
+362,Nepal,Local Election 2079,Bagmati Pradesh,Dhading,Khaniyabash Rural Municipality,5,10680,5,4925,4803,1,9729
+363,Nepal,Local Election 2079,Bagmati Pradesh,Dhading,Gangajamuna Rural Municipality,7,19460,7,9096,9179,0,18275
+364,Nepal,Local Election 2079,Bagmati Pradesh,Dhading,Gajuri Rural Municipality,8,28756,8,9919,8692,0,18611
+365,Nepal,Local Election 2079,Bagmati Pradesh,Dhading,Galchi Rural Municipality,8,24206,8,10709,9943,0,20652
+366,Nepal,Local Election 2079,Bagmati Pradesh,Dhading,Jwalamukhi Rural Municipality,7,23966,8,10824,10833,0,21657
+367,Nepal,Local Election 2079,Bagmati Pradesh,Dhading,Tripurasundhari Rural Municipality,7,22960,8,9979,10223,0,20202
+368,Nepal,Local Election 2079,Bagmati Pradesh,Dhading,Thakre Rural Municipality,11,31554,11,14052,13267,0,27319
+369,Nepal,Local Election 2079,Bagmati Pradesh,Dhading,Dhunibesi Municipality,9,29126,9,13260,12441,0,25701
+370,Nepal,Local Election 2079,Bagmati Pradesh,Dhading,Nilakantha Municipality,14,58151,15,21785,22326,0,44111
+371,Nepal,Local Election 2079,Bagmati Pradesh,Dhading,Netrawati Rural Municipality,5,11271,5,5821,5978,0,11799
+372,Nepal,Local Election 2079,Bagmati Pradesh,Dhading,Rubi valley Rural Municipality,6,10472,8,4618,4335,0,8953
+373,Nepal,Local Election 2079,Bagmati Pradesh,Dhading,Siddhalek Rural Municipality,7,22212,7,10398,10010,0,20408
+374,Nepal,Local Election 2079,Bagmati Pradesh,Makwanpur,Indrasarowar Rural Municipality,5,13758,11,6465,6006,0,12471
+375,Nepal,Local Election 2079,Bagmati Pradesh,Makwanpur,Kailash Rural Municipality,10,21992,16,7992,6594,0,14586
+376,Nepal,Local Election 2079,Bagmati Pradesh,Makwanpur,Thaha Municipality,12,39163,21,16699,15607,1,32307
+377,Nepal,Local Election 2079,Bagmati Pradesh,Makwanpur,Bakaiya Rural Municipality,12,40671,17,15593,14348,2,29943
+378,Nepal,Local Election 2079,Bagmati Pradesh,Makwanpur,Bagmati Rural Municipality,9,30625,13,11190,10850,0,12328
+379,Nepal,Local Election 2079,Bagmati Pradesh,Makwanpur,Bhimphedhi Rural Municipality,9,21626,14,8935,8493,0,17428
+380,Nepal,Local Election 2079,Bagmati Pradesh,Makwanpur,Makawanpurgadhi Rural Municipality,8,24252,12,9899,9219,0,19118
+381,Nepal,Local Election 2079,Bagmati Pradesh,Makwanpur,Manahari Rural Municipality,9,47144,11,13709,13012,0,26721
+382,Nepal,Local Election 2079,Bagmati Pradesh,Makwanpur,Raksirang Rural Municipality,9,25871,19,8747,7085,0,15832
+383,Nepal,Local Election 2079,Bagmati Pradesh,Makwanpur,Hetauda Submetropolitan,19,195951,28,50725,53745,3,104473
+384,Nepal,Local Election 2079,Bagmati Pradesh,Chitwan,Ichchhyakamana Rural Municipality,7,26965,14,8242,7392,0,15634
+385,Nepal,Local Election 2079,Bagmati Pradesh,Chitwan,Kalika Municipality,11,10172,6,4319,4337,0,8656
+386,Nepal,Local Election 2079,Bagmati Pradesh,Chitwan,Khairahani Municipality,13,68675,17,20732,22799,0,43531
+387,Nepal,Local Election 2079,Bagmati Pradesh,Chitwan,Bharatpur Metropolitan,29,369377,65,88884,96867,1,185752
+388,Nepal,Local Election 2079,Bagmati Pradesh,Chitwan,Madi Municipality,9,38550,15,13758,14562,0,28320
+389,Nepal,Local Election 2079,Bagmati Pradesh,Chitwan,Ratnanagar Municipality,16,90978,21,25347,27295,0,52642
+390,Nepal,Local Election 2079,Bagmati Pradesh,Chitwan,Rapti Municipality,13,66426,18,20495,20154,0,40649
+391,Nepal,Local Election 2079,Gandaki Pradesh,Gorkha,Ajirkot Rural Municipality,5,13002,15,6398,6194,0,12592
+392,Nepal,Local Election 2079,Gandaki Pradesh,Gorkha,Aarughat Rural Municipality,10,21876,18,9283,9393,0,18676
+393,Nepal,Local Election 2079,Gandaki Pradesh,Gorkha,Gandaki Rural Municipality,8,21662,20,9496,9035,0,18531
+394,Nepal,Local Election 2079,Gandaki Pradesh,Gorkha,Gorkha Municipality,14,53285,25,16808,18223,0,35031
+395,Nepal,Local Election 2079,Gandaki Pradesh,Gorkha,Chumnubri Rural Municipality,7,6789,20,2546,2556,0,5102
+396,Nepal,Local Election 2079,Gandaki Pradesh,Gorkha,Dharche Rural Municipality,7,14563,15,5285,5601,0,10886
+397,Nepal,Local Election 2079,Gandaki Pradesh,Gorkha,Palungtar Municipality,10,37274,23,16140,16456,0,32596
+398,Nepal,Local Election 2079,Gandaki Pradesh,Gorkha,Barpak Sulikot Rural Municipality,8,23222,19,10106,10386,0,20492
+399,Nepal,Local Election 2079,Gandaki Pradesh,Gorkha,Bhimsenthapa Rural Municipality,8,17118,18,9805,9917,0,19722
+400,Nepal,Local Election 2079,Gandaki Pradesh,Gorkha,Shahid Lakhan Rural Municipality,9,22429,19,11590,12027,0,23617
+401,Nepal,Local Election 2079,Gandaki Pradesh,Gorkha,Siranchok Rural Municipality,8,19829,23,10803,10515,0,21318
+402,Nepal,Local Election 2079,Gandaki Pradesh,Lamjung,Kwholasothar Rural Municipality,9,8008,10,4522,4776,0,9298
+403,Nepal,Local Election 2079,Gandaki Pradesh,Lamjung,Dudhpokhari Rural Municipality,6,8558,10,4507,4381,0,8888
+404,Nepal,Local Election 2079,Gandaki Pradesh,Lamjung,Dordi Rural Municipality,9,15639,16,7552,7532,0,15084
+405,Nepal,Local Election 2079,Gandaki Pradesh,Lamjung,Besishahar Municipality,11,38562,21,12491,13716,0,26207
+406,Nepal,Local Election 2079,Gandaki Pradesh,Lamjung,MadhyaNepal Municipality,10,21373,18,9712,10380,0,20092
+407,Nepal,Local Election 2079,Gandaki Pradesh,Lamjung,Marsyangdi Rural Municipality,9,17267,20,7551,7589,0,15140
+408,Nepal,Local Election 2079,Gandaki Pradesh,Lamjung,Rainas Municipality,10,17207,12,7779,8210,0,15989
+409,Nepal,Local Election 2079,Gandaki Pradesh,Lamjung,Sundarbazar Municipality,11,26866,16,9927,10869,0,20796
+410,Nepal,Local Election 2079,Gandaki Pradesh,Tanahun,Anbukhaireni Rural Municipality,6,22349,8,6642,6989,0,13631
+411,Nepal,Local Election 2079,Gandaki Pradesh,Tanahun,Rhishing Rural Municipality,8,18821,13,8951,9287,0,18238
+412,Nepal,Local Election 2079,Gandaki Pradesh,Tanahun,Ghiring Rural Municipality,5,15038,8,7117,7559,0,14676
+413,Nepal,Local Election 2079,Gandaki Pradesh,Tanahun,Devghat Rural Municipality,5,14941,8,6375,6440,0,12815
+414,Nepal,Local Election 2079,Gandaki Pradesh,Tanahun,Bandipur Rural Municipality,6,19403,10,7564,8074,0,15638
+415,Nepal,Local Election 2079,Gandaki Pradesh,Tanahun,Vyas Municipality,14,80944,25,22413,25129,0,47542
+416,Nepal,Local Election 2079,Gandaki Pradesh,Tanahun,Bhanu Municipality,13,43255,21,19544,20952,0,40496
+417,Nepal,Local Election 2079,Gandaki Pradesh,Tanahun,Bhimad Municipality,9,33077,15,11899,12985,0,24884
+418,Nepal,Local Election 2079,Gandaki Pradesh,Tanahun,Myagde Rural Municipality,7,23385,9,8579,9526,0,18105
+419,Nepal,Local Election 2079,Gandaki Pradesh,Tanahun,Shuklagandaki Municipality,12,55749,19,18050,20265,0,38315
+420,Nepal,Local Election 2079,Gandaki Pradesh,Syangja,Arjunchaupari Rural Municipality,6,14094,13,6949,6918,0,13867
+421,Nepal,Local Election 2079,Gandaki Pradesh,Syangja,Aandhikhola Rural Municipality,6,14970,15,8130,8119,1,16250
+422,Nepal,Local Election 2079,Gandaki Pradesh,Syangja,Kaligandaki Rural Municipality,7,18008,15,8630,9308,0,17938
+423,Nepal,Local Election 2079,Gandaki Pradesh,Syangja,Galyang Municipality,11,31125,21,14399,15158,0,29557
+424,Nepal,Local Election 2079,Gandaki Pradesh,Syangja,Chapakot Municipality,10,22787,17,10240,11306,0,21546
+425,Nepal,Local Election 2079,Gandaki Pradesh,Syangja,Putalibazar Municipality,14,42079,29,18290,19418,0,37708
+426,Nepal,Local Election 2079,Gandaki Pradesh,Syangja,Phedikhola Rural Municipality,5,10786,10,5810,6355,0,12165
+427,Nepal,Local Election 2079,Gandaki Pradesh,Syangja,Bhirkot Municipality,9,22617,19,9806,10621,0,20427
+428,Nepal,Local Election 2079,Gandaki Pradesh,Syangja,waling Municipality,14,50932,33,19077,20582,0,39659
+429,Nepal,Local Election 2079,Gandaki Pradesh,Syangja,Biruwa Rural Municipality,8,13900,15,8139,8460,0,16599
+430,Nepal,Local Election 2079,Gandaki Pradesh,Syangja,Harinas Rural Municipality,7,12979,12,7196,7623,0,14819
+431,Nepal,Local Election 2079,Gandaki Pradesh,Kaski,Anapurna Rural Municipality,11,22517,14,10036,10311,1,12029
+432,Nepal,Local Election 2079,Gandaki Pradesh,Kaski,Pokhara Lekhnath Metropolitan,33,518452,98,97070,110641,1,207712
+433,Nepal,Local Election 2079,Gandaki Pradesh,Kaski,Machhapuchchhre Rural Municipality,9,22013,12,10029,10286,1,20316
+434,Nepal,Local Election 2079,Gandaki Pradesh,Kaski,Madi Rural Municipality,12,16318,9,9395,9387,0,11440
+435,Nepal,Local Election 2079,Gandaki Pradesh,Kaski,Rupa Rural Municipality,7,22517,8,7212,7462,1,14675
+436,Nepal,Local Election 2079,Gandaki Pradesh,Manang,Chame Rural Municipality,5,1272,5,343,368,0,711
+437,Nepal,Local Election 2079,Gandaki Pradesh,Manang,Narpa Bhumi Rural Municipality,5,398,5,198,250,0,448
+438,Nepal,Local Election 2079,Gandaki Pradesh,Manang,Nason Rural Municipality,9,1671,9,857,945,0,1802
+439,Nepal,Local Election 2079,Gandaki Pradesh,Manang,Manang Ngisyang Rural Municipality,9,1584,9,1750,1785,0,3535
+440,Nepal,Local Election 2079,Gandaki Pradesh,Mustang,Gharapjhong Rural Municipality,5,4875,5,1059,1025,0,2084
+441,Nepal,Local Election 2079,Gandaki Pradesh,Mustang,Thasang Rural Municipality,5,3578,8,1380,1366,1,2747
+442,Nepal,Local Election 2079,Gandaki Pradesh,Mustang,Dalome Rural Municipality,5,1535,0,707,755,0,1462
+443,Nepal,Local Election 2079,Gandaki Pradesh,Mustang,Lomanthang Rural Municipality,5,1997,7,926,1022,0,1948
+444,Nepal,Local Election 2079,Gandaki Pradesh,Mustang,Varagung Muktichhetra Rural Municipality,5,2611,9,1056,1188,0,2244
+445,Nepal,Local Election 2079,Gandaki Pradesh,Parbat,Kushma Municipality,14,38774,17,15374,15957,0,31331
+446,Nepal,Local Election 2079,Gandaki Pradesh,Parbat,Jaljala Rural Municipality,9,21375,12,7988,8386,0,16374
+447,Nepal,Local Election 2079,Gandaki Pradesh,Parbat,Painyu Rural Municipality,7,12705,7,5688,5966,0,11654
+448,Nepal,Local Election 2079,Gandaki Pradesh,Parbat,Phalebas Municipality,11,20726,14,11590,11975,0,23565
+449,Nepal,Local Election 2079,Gandaki Pradesh,Parbat,Mahashila Rural Municipality,6,8233,7,4168,4214,0,8382
+450,Nepal,Local Election 2079,Gandaki Pradesh,Parbat,Modi Rural Municipality,8,18018,10,9602,10005,0,19607
+451,Nepal,Local Election 2079,Gandaki Pradesh,Parbat,Bihadi Rural Municipality,6,12521,7,5574,5563,0,11137
+452,Nepal,Local Election 2079,Gandaki Pradesh,Myagdi,Annapurna Rural Municipality,8,12351,15,5356,5584,0,20348
+453,Nepal,Local Election 2079,Gandaki Pradesh,Myagdi,Dhaulagiri Rural Municipality,7,12604,12,5356,5584,0,10940
+454,Nepal,Local Election 2079,Gandaki Pradesh,Myagdi,Beni Municipality,10,33062,17,10396,11446,0,21842
+455,Nepal,Local Election 2079,Gandaki Pradesh,Myagdi,Mangala Rural Municipality,5,14772,8,6478,6938,0,13416
+456,Nepal,Local Election 2079,Gandaki Pradesh,Myagdi,Malika Rural Municipality,7,18346,9,6625,6576,0,13201
+457,Nepal,Local Election 2079,Gandaki Pradesh,Myagdi,Raghuganga Rural Municipality,8,14232,14,6683,7264,0,13947
+458,Nepal,Local Election 2079,Gandaki Pradesh,Baglung,Kanthekhola Rural Municipality,8,22732,10,10109,11229,0,21338
+459,Nepal,Local Election 2079,Gandaki Pradesh,Baglung,Galkota Municipality,11,30503,13,11667,12819,0,24486
+460,Nepal,Local Election 2079,Gandaki Pradesh,Baglung,Jaimini Municipality,10,24784,11,12070,12641,0,24711
+461,Nepal,Local Election 2079,Gandaki Pradesh,Baglung,Dhorpatan Municipality,9,30779,11,8708,8922,0,17630
+462,Nepal,Local Election 2079,Gandaki Pradesh,Baglung,Tamankhola Rural Municipality,6,9795,6,3904,3884,0,7788
+463,Nepal,Local Election 2079,Gandaki Pradesh,Baglung,Tarakhola Rural Municipality,5,10167,6,4138,4426,0,8564
+464,Nepal,Local Election 2079,Gandaki Pradesh,Baglung,Nisikhola Rural Municipality,7,23215,7,7947,7971,0,15918
+465,Nepal,Local Election 2079,Gandaki Pradesh,Baglung,Baglung Municipality,14,57030,22,19085,21333,0,40418
+466,Nepal,Local Election 2079,Gandaki Pradesh,Baglung,Badigad Rural Municipality,10,28797,12,10998,11155,0,22153
+467,Nepal,Local Election 2079,Gandaki Pradesh,Baglung,Bareng Rural Municipality,5,11162,5,5271,5348,0,10619
+468,Nepal,Local Election 2079,Gandaki Pradesh,Nawalparasi East,Kawasoti Municipality,17,87176,21,25889,29439,2,55330
+469,Nepal,Local Election 2079,Gandaki Pradesh,Nawalparasi East,Gaindakot Municipality,18,80737,21,22636,25079,0,47715
+470,Nepal,Local Election 2079,Gandaki Pradesh,Nawalparasi East,Devchuli Municipality,17,59400,19,17401,19468,0,36869
+471,Nepal,Local Election 2079,Gandaki Pradesh,Nawalparasi East,Bulingtar Rural Municipality,6,14596,6,6334,6167,0,12501
+472,Nepal,Local Election 2079,Gandaki Pradesh,Nawalparasi East,Baudikali Rural Municipality,6,11339,6,5783,5714,0,11497
+473,Nepal,Local Election 2079,Gandaki Pradesh,Nawalparasi East,Madhyabindu Municipality,15,61548,20,21063,23899,2,44964
+474,Nepal,Local Election 2079,Gandaki Pradesh,Nawalparasi East,Binayee Tribeni Rural Municipality,7,39201,11,12766,13867,0,26633
+475,Nepal,Local Election 2079,Gandaki Pradesh,Nawalparasi East,Hupsekot Rural Municipality,6,26861,9,9166,9940,0,19106
+476,Nepal,Local Election 2079,Lumbini Pradesh,Gulmi,Isma Rural Municipality,6,18530,8,8837,9045,0,17882
+477,Nepal,Local Election 2079,Lumbini Pradesh,Gulmi,Kaligandaki Rural Municipality,7,18008,15,8630,9308,0,17938
+478,Nepal,Local Election 2079,Lumbini Pradesh,Gulmi,Gulmidarbar Rural Municipality,7,19413,11,9019,9915,0,18934
+479,Nepal,Local Election 2079,Lumbini Pradesh,Gulmi,Chandrakot Rural Municipality,8,18751,14,7829,8553,0,16382
+480,Nepal,Local Election 2079,Lumbini Pradesh,Gulmi,Chatrakot Rural Municipality,6,19239,10,9327,9887,0,19214
+481,Nepal,Local Election 2079,Lumbini Pradesh,Gulmi,Dhurkot Rural Municipality,7,18699,11,9464,9405,1,18870
+482,Nepal,Local Election 2079,Lumbini Pradesh,Gulmi,Madane Rural Municipality,7,19820,10,8508,7796,1,16305
+483,Nepal,Local Election 2079,Lumbini Pradesh,Gulmi,Malika Rural Municipality,8,18346,9,6625,6576,0,13201
+484,Nepal,Local Election 2079,Lumbini Pradesh,Gulmi,Musikot Municipality,9,28761,15,11853,12428,0,24281
+485,Nepal,Local Election 2079,Lumbini Pradesh,Gulmi,Rurukshetra Rural Municipality,6,16638,11,8145,8507,0,16652
+486,Nepal,Local Election 2079,Lumbini Pradesh,Gulmi,Resunga Municipality,14,31677,15,11257,12274,0,23531
+487,Nepal,Local Election 2079,Lumbini Pradesh,Gulmi,Satyawati Rural Municipality,8,19751,16,9172,10053,0,19225
+488,Nepal,Local Election 2079,Lumbini Pradesh,Palpa,Tansen Municipality,14,51470,22,16028,17741,0,33769
+489,Nepal,Local Election 2079,Lumbini Pradesh,Palpa,Tinau Rural Municipality,6,18291,10,7245,7141,0,14386
+490,Nepal,Local Election 2079,Lumbini Pradesh,Palpa,Nisdi Rural Municipality,7,17629,9,7496,7589,0,15085
+491,Nepal,Local Election 2079,Lumbini Pradesh,Palpa,Purbakhola Rural Municipality,6,16145,9,6529,7169,0,13698
+492,Nepal,Local Election 2079,Lumbini Pradesh,Palpa,Bagnaskali Rural Municipality,9,16934,11,9505,10334,0,19839
+493,Nepal,Local Election 2079,Lumbini Pradesh,Palpa,Mathagadhi Rural Municipality,8,24024,10,9480,9867,0,19347
+494,Nepal,Local Election 2079,Lumbini Pradesh,Palpa,Rambha Rural Municipality,5,17077,9,8487,9176,0,17663
+495,Nepal,Local Election 2079,Lumbini Pradesh,Palpa,Rampur Municipality,10,39190,14,13762,15305,0,29067
+496,Nepal,Local Election 2079,Lumbini Pradesh,Palpa,Ribdikot Rural Municipality,8,15636,10,8011,8384,0,16395
+497,Nepal,Local Election 2079,Lumbini Pradesh,Palpa,Rainadevi Chhahara Rural Municipality,8,23124,14,10137,10304,0,20441
+498,Nepal,Local Election 2079,Lumbini Pradesh,Rupandehi,Omsatiya Rural Municipality,6,41080,10,12639,11290,0,23929
+499,Nepal,Local Election 2079,Lumbini Pradesh,Rupandehi,Kanchan Rural Municipality,5,42528,6,13836,15141,1,28978
+500,Nepal,Local Election 2079,Lumbini Pradesh,Rupandehi,Kotahimai Rural Municipality,7,46417,9,14916,11326,0,26242
+501,Nepal,Local Election 2079,Lumbini Pradesh,Rupandehi,Gaidahawa Rural Municipality,9,56529,12,17055,13296,0,30351
+502,Nepal,Local Election 2079,Lumbini Pradesh,Rupandehi,Tillotama Municipality,17,149657,20,40463,45283,1,85747
+503,Nepal,Local Election 2079,Lumbini Pradesh,Rupandehi,Devdaha Municipality,12,71806,13,23259,25031,1,48291
+504,Nepal,Local Election 2079,Lumbini Pradesh,Rupandehi,Butwal Submetropolitan,19,195054,19,42679,47383,3,90065
+505,Nepal,Local Election 2079,Lumbini Pradesh,Rupandehi,Marchawari Rural Municipality,7,41058,9,13212,9535,0,22747
+506,Nepal,Local Election 2079,Lumbini Pradesh,Rupandehi,Mayadevi Rural Municipality,8,57341,12,17192,13271,1,30464
+507,Nepal,Local Election 2079,Lumbini Pradesh,Rupandehi,Rohini Rural Municipality,7,43277,11,14844,12125,0,26969
+508,Nepal,Local Election 2079,Lumbini Pradesh,Rupandehi,Lumbini Sanskrrtika Municipality,13,88090,23,24903,18987,0,43890
+509,Nepal,Local Election 2079,Lumbini Pradesh,Rupandehi,Sudhdhodhan Rural Municipality,7,41472,12,14110,13468,0,27578
+510,Nepal,Local Election 2079,Lumbini Pradesh,Rupandehi,Sammarimai Rural Municipality,7,43300,12,13475,10207,0,23682
+511,Nepal,Local Election 2079,Lumbini Pradesh,Rupandehi,Siddharthanagara Municipality,13,76307,14,22924,21727,1,44652
+512,Nepal,Local Election 2079,Lumbini Pradesh,Rupandehi,Siyari Rural Municipality,7,45274,13,14257,13496,0,27753
+513,Nepal,Local Election 2079,Lumbini Pradesh,Rupandehi,Sainamaina Municipality,11,78477,13,24014,27008,0,51022
+514,Nepal,Local Election 2079,Lumbini Pradesh,Arghakhanchi,Chhatradev Rural Municipality,8,21691,11,12056,12243,0,24299
+515,Nepal,Local Election 2079,Lumbini Pradesh,Arghakhanchi,Panini Rural Municipality,8,22330,14,11638,11533,0,23171
+516,Nepal,Local Election 2079,Lumbini Pradesh,Arghakhanchi,Bhumekasthan Municipality,10,28317,17,13352,14035,0,27387
+517,Nepal,Local Election 2079,Lumbini Pradesh,Arghakhanchi,Malarani Rural Municipality,9,23780,12,11995,11938,0,23933
+518,Nepal,Local Election 2079,Lumbini Pradesh,Arghakhanchi,Sandhikharka Municipality,12,42528,15,15826,16815,0,32641
+519,Nepal,Local Election 2079,Lumbini Pradesh,Arghakhanchi,Sitganga Municipality,14,37888,27,16582,15802,0,32384
+520,Nepal,Local Election 2079,Lumbini Pradesh,Kapilvastu,Kapilbastu Municipality,12,89969,31,25618,21462,0,47080
+521,Nepal,Local Election 2079,Lumbini Pradesh,Kapilvastu,Krishnanagar Municipality,12,70969,24,20301,16582,0,36883
+522,Nepal,Local Election 2079,Lumbini Pradesh,Kapilvastu,Banganga Municipality,11,97114,30,29304,31871,2,61177
+523,Nepal,Local Election 2079,Lumbini Pradesh,Kapilvastu,Buddhabhumi Municipality,10,77281,30,23538,21803,0,45341
+524,Nepal,Local Election 2079,Lumbini Pradesh,Kapilvastu,Maharajgunj Municipality,11,65668,23,18407,13914,0,32321
+525,Nepal,Local Election 2079,Lumbini Pradesh,Kapilvastu,MayaDevi Rural Municipality,8,57121,22,17362,13654,0,31016
+526,Nepal,Local Election 2079,Lumbini Pradesh,Kapilvastu,Yashodhara Rural Municipality,8,45169,15,12980,10267,0,23247
+527,Nepal,Local Election 2079,Lumbini Pradesh,Kapilvastu,Bijayanagar Rural Municipality,7,43440,18,12932,10870,0,23802
+528,Nepal,Local Election 2079,Lumbini Pradesh,Kapilvastu,Shivaraj Municipality,11,84454,25,23068,21390,0,44458
+529,Nepal,Local Election 2079,Lumbini Pradesh,Kapilvastu,Sudhodhan Rural Municipality,6,53417,17,15777,11998,0,27775
+530,Nepal,Local Election 2079,Lumbini Pradesh,Pyuthan,Ayirabati Rural Municipality,6,20404,17,7701,8015,0,15716
+531,Nepal,Local Election 2079,Lumbini Pradesh,Pyuthan,Gaumukhi Rural Municipality,7,26000,16,8284,8139,0,16423
+532,Nepal,Local Election 2079,Lumbini Pradesh,Pyuthan,Jhimruk Rural Municipality,8,26491,20,10259,10071,0,20330
+533,Nepal,Local Election 2079,Lumbini Pradesh,Pyuthan,Naubahini Rural Municipality,8,32524,21,9877,9885,0,19762
+534,Nepal,Local Election 2079,Lumbini Pradesh,Pyuthan,Pyuthan Municipality,10,42094,24,14257,15628,1,29886
+535,Nepal,Local Election 2079,Lumbini Pradesh,Pyuthan,Mallarani Rural Municipality,5,15846,12,6037,6573,0,12610
+536,Nepal,Local Election 2079,Lumbini Pradesh,Pyuthan,Mandavi Rural Municipality,5,15778,10,4965,5407,0,10372
+537,Nepal,Local Election 2079,Lumbini Pradesh,Pyuthan,Sarumarani Rural Municipality,6,19370,14,6020,6675,0,12695
+538,Nepal,Local Election 2079,Lumbini Pradesh,Pyuthan,Sworgadwary Municipality,9,32127,17,9927,11625,0,21552
+539,Nepal,Local Election 2079,Lumbini Pradesh,Rolpa,Gangadev Rural Municipality,7,21738,7,6508,6337,0,12845
+540,Nepal,Local Election 2079,Lumbini Pradesh,Rolpa,Triveni Rural Municipality,7,23190,8,7877,8217,0,16094
+541,Nepal,Local Election 2079,Lumbini Pradesh,Rolpa,Thawang Rural Municipality,5,11008,5,3478,3692,0,7170
+542,Nepal,Local Election 2079,Lumbini Pradesh,Rolpa,Pariwartan Rural Municipality,6,22001,6,6998,7328,0,14326
+543,Nepal,Local Election 2079,Lumbini Pradesh,Rolpa,Madi Rural Municipality,6,18013,6,6061,6518,0,12579
+544,Nepal,Local Election 2079,Lumbini Pradesh,Rolpa,Runtigadi Rural Municipality,9,29094,11,9452,9667,0,19119
+545,Nepal,Local Election 2079,Lumbini Pradesh,Rolpa,Rolpa Municipality,10,35644,14,9289,10209,0,19498
+546,Nepal,Local Election 2079,Lumbini Pradesh,Rolpa,Lungri Rural Municipality,7,26539,8,8094,7536,0,15630
+547,Nepal,Local Election 2079,Lumbini Pradesh,Rolpa,Sunchhahari Rural Municipality,7,17281,8,5353,5202,0,10555
+548,Nepal,Local Election 2079,Lumbini Pradesh,Rolpa,Sunil Smriti Rural Municipality,8,30523,8,8824,8804,0,17628
+549,Nepal,Local Election 2079,Lumbini Pradesh,Dang,Gadhawa Rural Municipality,8,46275,10,15190,14611,1,29802
+550,Nepal,Local Election 2079,Lumbini Pradesh,Dang,Ghorahi Submetropolitan,19,201079,40,54221,58706,0,112927
+551,Nepal,Local Election 2079,Lumbini Pradesh,Dang,Tulsipur Submetropolitan,19,180734,33,52133,55543,1,107677
+552,Nepal,Local Election 2079,Lumbini Pradesh,Dang,Dangisharan Rural Municipality,7,23672,8,8899,9207,0,18106
+553,Nepal,Local Election 2079,Lumbini Pradesh,Dang,Banglachuli Rural Municipality,8,22877,11,7859,8094,0,15953
+554,Nepal,Local Election 2079,Lumbini Pradesh,Dang,Babai Rural Municipality,7,31317,11,10962,11182,0,22144
+555,Nepal,Local Election 2079,Lumbini Pradesh,Dang,Rajpur Rural Municipality,7,28410,8,8407,7316,0,15723
+556,Nepal,Local Election 2079,Lumbini Pradesh,Dang,Rapti Rural Municipality,9,52158,10,15862,16461,0,32323
+557,Nepal,Local Election 2079,Lumbini Pradesh,Dang,Lamahi Municipality,9,58884,13,17053,17329,0,34382
+558,Nepal,Local Election 2079,Lumbini Pradesh,Dang,Shantinagar Rural Municipality,7,27666,9,10213,10650,0,20863
+559,Nepal,Local Election 2079,Lumbini Pradesh,Bardiya,Gulariya Municipality,12,74868,18,22526,20679,0,43205
+560,Nepal,Local Election 2079,Lumbini Pradesh,Bardiya,Geruwa Rural Municipality,6,33742,15,12431,13330,0,25761
+561,Nepal,Local Election 2079,Lumbini Pradesh,Bardiya,Thakurbaba Municipality,9,49360,17,15923,17633,1,33557
+562,Nepal,Local Election 2079,Lumbini Pradesh,Bardiya,Badaiyatal Rural Municipality,9,52056,21,18076,18961,2,37039
+563,Nepal,Local Election 2079,Lumbini Pradesh,Bardiya,Barbardiya Municipality,11,72892,23,24083,25452,1,49536
+564,Nepal,Local Election 2079,Lumbini Pradesh,Bardiya,Bansagadhi Municipality,9,63400,17,21296,22167,1,43464
+565,Nepal,Local Election 2079,Lumbini Pradesh,Bardiya,Madhuwan Municipality,9,51173,18,16736,18559,0,35295
+566,Nepal,Local Election 2079,Lumbini Pradesh,Bardiya,Rajapur Municipality,10,61431,24,21671,21881,1,43553
+567,Nepal,Local Election 2079,Lumbini Pradesh,Banke,Kohalpur Municipality,15,100289,16,26814,29982,1,56797
+568,Nepal,Local Election 2079,Lumbini Pradesh,Banke,Khajura Rural Municipality,8,63749,16,18076,19187,1,37264
+569,Nepal,Local Election 2079,Lumbini Pradesh,Banke,Janki Rural Municipality,6,46536,0,12552,10277,0,18078
+570,Nepal,Local Election 2079,Lumbini Pradesh,Banke,Duduwa Rural Municipality,6,43039,12,12640,9615,0,22255
+571,Nepal,Local Election 2079,Lumbini Pradesh,Banke,Narainapur Rural Municipality,6,43698,12,10920,7679,0,18599
+572,Nepal,Local Election 2079,Lumbini Pradesh,Banke,Nepalgunj Submetropolitan,23,166258,34,43111,38679,4,81794
+573,Nepal,Local Election 2079,Lumbini Pradesh,Banke,Baijanath Rural Municipality,8,70315,16,21171,23952,0,45123
+574,Nepal,Local Election 2079,Lumbini Pradesh,Banke,Rapti Sonari Rural Municipality,9,67782,18,22065,22746,1,44812
+575,Nepal,Local Election 2079,Lumbini Pradesh,Nawalparasi West,Palhinandana Rural Municipality,6,40325,10,13093,11055,0,24148
+576,Nepal,Local Election 2079,Lumbini Pradesh,Nawalparasi West,Pratappur Rural Municipality,9,50326,16,15527,13551,1,29079
+577,Nepal,Local Election 2079,Lumbini Pradesh,Nawalparasi West,Bardaghat Municipality,16,75017,24,23939,26692,0,50631
+578,Nepal,Local Election 2079,Lumbini Pradesh,Nawalparasi West,Ramgram Municipality,18,64150,25,19174,17920,1,37095
+579,Nepal,Local Election 2079,Lumbini Pradesh,Nawalparasi West,Sarawal Rural Municipality,7,42217,15,13525,12387,0,25912
+580,Nepal,Local Election 2079,Lumbini Pradesh,Nawalparasi West,Sunwal Municipality,13,72621,17,21824,24475,2,46301
+581,Nepal,Local Election 2079,Lumbini Pradesh,Nawalparasi West,Triveni susta Rural Municipality,5,39798,14,12693,11266,0,23959
+582,Nepal,Local Election 2079,Lumbini Pradesh,Eastern Rukum,Putha uttar ganga Rural Municipality,14,18954,15,5725,5528,0,11253
+583,Nepal,Local Election 2079,Lumbini Pradesh,Eastern Rukum,Bhume Rural Municipality,9,19835,9,5718,5634,0,11352
+584,Nepal,Local Election 2079,Lumbini Pradesh,Eastern Rukum,Sisne Rural Municipality,8,18751,11,5451,5462,0,10913
+585,Nepal,Local Election 2079,Karnali Pradesh,Western Rukum,Aathbiskot Municipality,14,35929,20,17210,18196,0,35406
+586,Nepal,Local Election 2079,Karnali Pradesh,Western Rukum,Chaurjahari Municipality,14,29255,14,9566,9542,0,19108
+587,Nepal,Local Election 2079,Karnali Pradesh,Western Rukum,Triveni Rural Municipality,10,20466,8,7094,7241,1,16094
+588,Nepal,Local Election 2079,Karnali Pradesh,Western Rukum,Banfikot Rural Municipality,10,20940,10,6945,6782,0,13727
+589,Nepal,Local Election 2079,Karnali Pradesh,Western Rukum,Musikot Municipality,14,28761,15,11853,12428,0,24281
+590,Nepal,Local Election 2079,Karnali Pradesh,Western Rukum,Sanibheri Rural Municipality,11,24778,11,7363,7043,0,14406
+591,Nepal,Local Election 2079,Karnali Pradesh,Salyan,Kapurkot Rural Municipality,6,17548,10,6023,5980,0,12003
+592,Nepal,Local Election 2079,Karnali Pradesh,Salyan,Kalimati Rural Municipality,7,22498,12,7729,7357,0,15086
+593,Nepal,Local Election 2079,Karnali Pradesh,Salyan,Kumakh Malika Rural Municipality,7,24858,10,7613,7307,0,14920
+594,Nepal,Local Election 2079,Karnali Pradesh,Salyan,Chhatreshwori Rural Municipality,7,21368,10,7913,7785,0,15698
+595,Nepal,Local Election 2079,Karnali Pradesh,Salyan,Triveni Rural Municipality,6,16768,8,5891,5825,0,16094
+596,Nepal,Local Election 2079,Karnali Pradesh,Salyan,Damra Rural Municipality,6,19998,9,6256,6181,0,12437
+597,Nepal,Local Election 2079,Karnali Pradesh,Salyan,Bangad kupinde Municipality,12,33758,18,11070,9926,0,20996
+598,Nepal,Local Election 2079,Karnali Pradesh,Salyan,Bagchaur Municipality,12,34053,14,11306,10958,0,22264
+599,Nepal,Local Election 2079,Karnali Pradesh,Salyan,Sharada Municipality,15,34684,16,11784,12174,0,23958
+600,Nepal,Local Election 2079,Karnali Pradesh,Salyan,Dhorchaur Rural Municipality,5,13135,0,4319,4318,0,7009
+601,Nepal,Local Election 2079,Karnali Pradesh,Surkhet,Gurbhakot Municipality,14,49394,17,16450,17379,0,33829
+602,Nepal,Local Election 2079,Karnali Pradesh,Surkhet,Chingad Rural Municipality,6,15752,8,5442,5287,0,10729
+603,Nepal,Local Election 2079,Karnali Pradesh,Surkhet,Chaukune Rural Municipality,10,27006,18,8003,7732,0,15735
+604,Nepal,Local Election 2079,Karnali Pradesh,Surkhet,Panchpuri Municipality,11,36062,12,11133,11390,0,22523
+605,Nepal,Local Election 2079,Karnali Pradesh,Surkhet,Barahtal Rural Municipality,10,25562,13,8862,8434,0,17296
+606,Nepal,Local Election 2079,Karnali Pradesh,Surkhet,Bheriganga Municipality,13,48581,17,15080,16194,0,31274
+607,Nepal,Local Election 2079,Karnali Pradesh,Surkhet,Lekbeshi Municipality,10,31791,12,10839,11144,0,21983
+608,Nepal,Local Election 2079,Karnali Pradesh,Surkhet,Birendranagar Municipality,16,154886,27,31679,35377,0,67056
+609,Nepal,Local Election 2079,Karnali Pradesh,Surkhet,Simta Rural Municipality,9,24298,14,8848,9184,0,18032
+610,Nepal,Local Election 2079,Karnali Pradesh,Dailekh,Aathabis Municipality,9,31839,15,8267,8300,0,16567
+611,Nepal,Local Election 2079,Karnali Pradesh,Dailekh,Gurans Rural Municipality,8,21284,12,6757,6735,0,13492
+612,Nepal,Local Election 2079,Karnali Pradesh,Dailekh,Chamunda Brindrasaini Municipality,9,26575,10,7476,7157,0,14633
+613,Nepal,Local Election 2079,Karnali Pradesh,Dailekh,Thantikandh Rural Municipality,6,18666,8,5274,5101,0,10375
+614,Nepal,Local Election 2079,Karnali Pradesh,Dailekh,Dungeshwor Rural Municipality,6,14597,9,5256,5324,0,10580
+615,Nepal,Local Election 2079,Karnali Pradesh,Dailekh,Dullu Municipality,13,39582,22,12671,12857,0,25528
+616,Nepal,Local Election 2079,Karnali Pradesh,Dailekh,Narayan Municipality,11,25803,14,8562,9305,0,17867
+617,Nepal,Local Election 2079,Karnali Pradesh,Dailekh,Naumule Rural Municipality,8,20589,16,6494,6312,0,12806
+618,Nepal,Local Election 2079,Karnali Pradesh,Dailekh,Bhagawatimai Rural Municipality,7,18366,12,5841,5652,0,11493
+619,Nepal,Local Election 2079,Karnali Pradesh,Dailekh,Bhairabi Rural Municipality,7,17981,9,6377,6554,0,12931
+620,Nepal,Local Election 2079,Karnali Pradesh,Dailekh,Mahabu Rural Municipality,6,18037,9,5944,6273,0,12217
+621,Nepal,Local Election 2079,Karnali Pradesh,Jajarkot,Kuse Rural Municipality,9,23529,10,6524,5518,0,12042
+622,Nepal,Local Election 2079,Karnali Pradesh,Jajarkot,Chhedagad Municipality,13,38027,16,10870,9590,1,20461
+623,Nepal,Local Election 2079,Karnali Pradesh,Jajarkot,Junichande Rural Municipality,11,23823,12,6542,5609,0,12151
+624,Nepal,Local Election 2079,Karnali Pradesh,Jajarkot,Nalgad Municipality,13,28858,15,8724,7780,0,16504
+625,Nepal,Local Election 2079,Karnali Pradesh,Jajarkot,Barekot Rural Municipality,9,22038,10,5829,5321,0,11150
+626,Nepal,Local Election 2079,Karnali Pradesh,Jajarkot,Bheri Municipality,13,38370,13,11479,10769,1,22249
+627,Nepal,Local Election 2079,Karnali Pradesh,Jajarkot,Shibalaya Rural Municipality,9,14720,9,4890,4422,0,9312
+628,Nepal,Local Election 2079,Karnali Pradesh,Dolpa,Kaike Rural Municipality,7,4124,7,1097,1289,0,2386
+629,Nepal,Local Election 2079,Karnali Pradesh,Dolpa,Chharka Tangsong Rural Municipality,6,1713,6,451,516,0,967
+630,Nepal,Local Election 2079,Karnali Pradesh,Dolpa,Jagadulla Rural Municipality,6,2581,6,868,828,0,1696
+631,Nepal,Local Election 2079,Karnali Pradesh,Dolpa,Thulibheri Municipality,11,10187,11,2372,2453,0,4825
+632,Nepal,Local Election 2079,Karnali Pradesh,Dolpa,Dolpo Buddha Rural Municipality,6,2462,6,572,617,0,1189
+633,Nepal,Local Election 2079,Karnali Pradesh,Dolpa,Tripurasundari Municipality,11,12300,11,3079,3047,0,6126
+634,Nepal,Local Election 2079,Karnali Pradesh,Dolpa,Mudkechula Rural Municipality,9,5875,9,1677,1577,0,3254
+635,Nepal,Local Election 2079,Karnali Pradesh,Dolpa,Shey Phoksundo Rural Municipality,9,3717,10,945,1052,0,1997
+636,Nepal,Local Election 2079,Karnali Pradesh,Humla,Adanchuli Rural Municipality,6,8110,6,2382,2338,0,4720
+637,Nepal,Local Election 2079,Karnali Pradesh,Humla,Kharpunath Rural Municipality,5,6975,5,2125,1922,0,4047
+638,Nepal,Local Election 2079,Karnali Pradesh,Humla,Chankheli Rural Municipality,6,6625,7,1835,1713,0,3548
+639,Nepal,Local Election 2079,Karnali Pradesh,Humla,Tajakot Rural Municipality,5,6110,5,1987,1781,0,3768
+640,Nepal,Local Election 2079,Karnali Pradesh,Humla,Namkha Rural Municipality,6,4506,10,1630,1552,0,3182
+641,Nepal,Local Election 2079,Karnali Pradesh,Humla,Sarkegad Rural Municipality,8,11040,11,3526,3154,0,6680
+642,Nepal,Local Election 2079,Karnali Pradesh,Humla,Simkot Rural Municipality,8,12130,8,3489,3147,0,6636
+643,Nepal,Local Election 2079,Karnali Pradesh,Kalikot,Khandachakra Municipality,11,23336,14,5797,5541,0,11338
+644,Nepal,Local Election 2079,Karnali Pradesh,Kalikot,Tilagufa Municipality,11,16259,14,5084,4536,0,9620
+645,Nepal,Local Election 2079,Karnali Pradesh,Kalikot,Naraharinath Rural Municipality,9,22414,15,6456,5966,0,12422
+646,Nepal,Local Election 2079,Karnali Pradesh,Kalikot,Pachaljharana Rural Municipality,9,13683,11,3804,3377,0,7181
+647,Nepal,Local Election 2079,Karnali Pradesh,Kalikot,Palata Rural Municipality,9,17658,12,4447,3611,0,8058
+648,Nepal,Local Election 2079,Karnali Pradesh,Kalikot,Mahawai Rural Municipality,7,8334,7,2791,2670,0,5461
+649,Nepal,Local Election 2079,Karnali Pradesh,Kalikot,Raskot Municipality,9,16469,9,5199,4900,0,10099
+650,Nepal,Local Election 2079,Karnali Pradesh,Kalikot,Shuva Kalika Rural Municipality,8,13900,8,4484,4287,0,8771
+651,Nepal,Local Election 2079,Karnali Pradesh,Kalikot,Sanni Triveni Rural Municipality,9,12864,10,3882,3584,0,7466
+652,Nepal,Local Election 2079,Karnali Pradesh,Mugu,Khatyad Rural Municipality,11,19301,18,5677,5040,0,10717
+653,Nepal,Local Election 2079,Karnali Pradesh,Mugu,Chhayanath Rara Municipality,14,25692,18,6378,6099,0,12477
+654,Nepal,Local Election 2079,Karnali Pradesh,Mugu,Mugum Karmarong Rural Municipality,9,7301,10,2038,1993,0,4031
+655,Nepal,Local Election 2079,Karnali Pradesh,Mugu,Soru Rural Municipality,11,14364,15,4051,3813,0,7864
+656,Nepal,Local Election 2079,Karnali Pradesh,Jumla,Kanakasundari Rural Municipality,8,13687,14,4850,4282,0,9132
+657,Nepal,Local Election 2079,Karnali Pradesh,Jumla,Guthichaur Rural Municipality,5,10891,8,3396,3128,0,6524
+658,Nepal,Local Election 2079,Karnali Pradesh,Jumla,Chandannath Municipality,10,20973,10,5847,5973,0,11820
+659,Nepal,Local Election 2079,Karnali Pradesh,Jumla,Tatopani Rural Municipality,8,15721,9,4883,4437,0,9320
+660,Nepal,Local Election 2079,Karnali Pradesh,Jumla,Tila Rural Municipality,9,14692,12,4186,3766,0,7952
+661,Nepal,Local Election 2079,Karnali Pradesh,Jumla,Patrasi Rural Municipality,7,16881,10,4513,4035,0,8548
+662,Nepal,Local Election 2079,Karnali Pradesh,Jumla,Sinja Rural Municipality,6,12744,7,4316,3845,0,8161
+663,Nepal,Local Election 2079,Karnali Pradesh,Jumla,Hima Rural Municipality,7,12804,9,3282,3005,0,6287
+664,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajura,Chededaha Rural Municipality,7,19274,7,6027,5868,0,11895
+665,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajura,Gaumul Rural Municipality,6,8765,6,3105,2941,0,6046
+666,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajura,Jagannath Rural Municipality,6,10205,6,2865,2612,0,5477
+667,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajura,Tribeni Municipality,9,17989,9,5660,5851,0,11511
+668,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajura,Badimalika Municipality,9,18432,9,4899,4835,1,9735
+669,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajura,Budhiganga Municipality,10,20072,10,6699,6956,1,13656
+670,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajura,Budhinanda Municipality,10,20745,10,5670,5202,0,10872
+671,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajura,Swamikartik Khapar Rural Municipality,5,13013,5,4005,3422,0,7427
+672,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajura,Himali Rural Municipality,7,10503,8,3221,2850,0,6071
+673,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajhang,Kedarseu Rural Municipality,9,21697,11,6029,6023,0,12052
+674,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajhang,Khaptadchhanna Rural Municipality,7,13751,11,5492,5644,0,11136
+675,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajhang,Chabispathivera Rural Municipality,7,14515,11,5353,4990,0,10343
+676,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajhang,JayaPrithivi Municipality,11,21973,16,7244,7047,0,14291
+677,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajhang,Talkot Rural Municipality,7,11858,10,3818,3789,0,7607
+678,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajhang,Thalara Rural Municipality,9,15961,11,5556,5769,0,11325
+679,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajhang,Durgathali Rural Municipality,7,11414,9,4520,4514,0,9034
+680,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajhang,Bithadchir Rural Municipality,9,16854,12,5267,5671,0,10938
+681,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajhang,Bungal Municipality,11,33487,19,9928,9648,0,19576
+682,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajhang,Masta Rural Municipality,7,13584,12,4586,4408,0,8994
+683,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajhang,Saipal Rural Municipality,5,2681,5,751,748,0,1499
+684,Nepal,Local Election 2079,Sudurpaschim Pradesh,Bajhang,Surma Rural Municipality,5,11248,6,2845,2497,0,5342
+685,Nepal,Local Election 2079,Sudurpaschim Pradesh,Achham,Kamalbazar Municipality,10,20947,15,7046,6897,0,13943
+686,Nepal,Local Election 2079,Sudurpaschim Pradesh,Achham,Chaurpati Rural Municipality,7,22407,10,6754,7990,0,14744
+687,Nepal,Local Election 2079,Sudurpaschim Pradesh,Achham,Dhakari Rural Municipality,8,22553,12,6200,6174,0,12374
+688,Nepal,Local Election 2079,Sudurpaschim Pradesh,Achham,Turmakhad Rural Municipality,8,24440,15,7692,7819,0,15511
+689,Nepal,Local Election 2079,Sudurpaschim Pradesh,Achham,Panchadewal Binayak Municipality,9,26316,14,7827,8618,0,16445
+690,Nepal,Local Election 2079,Sudurpaschim Pradesh,Achham,Bannigadhi Jayagadh Rural Municipality,6,13639,9,5636,6106,0,11742
+691,Nepal,Local Election 2079,Sudurpaschim Pradesh,Achham,Mangalsen Municipality,14,26843,17,9545,10332,1,19878
+692,Nepal,Local Election 2079,Sudurpaschim Pradesh,Achham,Mellekh Rural Municipality,8,23096,11,7415,7946,0,15361
+693,Nepal,Local Election 2079,Sudurpaschim Pradesh,Achham,Ramaroshan Rural Municipality,7,22676,11,7255,7163,0,14418
+694,Nepal,Local Election 2079,Sudurpaschim Pradesh,Achham,Sanphebagar Municipality,14,25990,16,10467,11396,1,21864
+695,Nepal,Local Election 2079,Sudurpaschim Pradesh,Doti,Adharsha Rural Municipality,7,24911,14,6460,7939,0,14399
+696,Nepal,Local Election 2079,Sudurpaschim Pradesh,Doti,KI Singh Rural Municipality,7,20830,10,5886,7191,0,13077
+697,Nepal,Local Election 2079,Sudurpaschim Pradesh,Doti,Jorayal Rural Municipality,6,20364,10,6749,6566,0,13315
+698,Nepal,Local Election 2079,Sudurpaschim Pradesh,Doti,Dipayal Silgadi Municipality,9,36906,22,8707,10104,0,18811
+699,Nepal,Local Election 2079,Sudurpaschim Pradesh,Doti,Purbichauki Rural Municipality,7,21263,14,5933,7101,0,13034
+700,Nepal,Local Election 2079,Sudurpaschim Pradesh,Doti,Badikedar Rural Municipality,5,15078,8,4764,4591,0,9355
+701,Nepal,Local Election 2079,Sudurpaschim Pradesh,Doti,Bogatan Phudsil Rural Municipality,7,15912,11,5047,5032,0,10079
+702,Nepal,Local Election 2079,Sudurpaschim Pradesh,Doti,Shikhar Municipality,11,30294,16,9522,11058,0,20580
+703,Nepal,Local Election 2079,Sudurpaschim Pradesh,Doti,Sayal Rural Municipality,6,20125,10,5214,5690,0,10904
+704,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kailali,Kailari Rural Municipality,9,50457,20,18252,18481,2,36735
+705,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kailali,Godawari Municipality,12,99973,31,26617,28874,1,54399
+706,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kailali,Gauriganga Municipality,11,64327,17,19074,20944,0,40018
+707,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kailali,Ghodaghodi Municipality,12,85982,17,25393,26647,0,52040
+708,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kailali,Chure Rural Municipality,6,21437,14,6217,5706,0,11923
+709,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kailali,Janaki Rural Municipality,9,49835,0,17210,18196,0,27458
+710,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kailali,Joshipur Rural Municipality,7,37167,13,12591,12855,0,25446
+711,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kailali,Tikapur Municipality,9,90115,16,25064,27807,1,52872
+712,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kailali,Dhangadhi Submetropolitan,19,204788,34,45924,47224,3,93151
+713,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kailali,Bardgoriya Rural Municipality,6,37714,10,10698,11483,0,22181
+714,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kailali,Bhajani Municipality,9,53795,18,17119,16810,2,33931
+715,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kailali,Mohanyal Rural Municipality,7,21285,15,6249,5735,0,11984
+716,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kailali,Lamkichuha Municipality,10,90941,18,25696,28248,2,53946
+717,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kanchanpur,Krishnapur Municipality,9,72501,15,19384,20954,0,40338
+718,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kanchanpur,Dodharachandani Municipality,10,43486,16,12711,14092,0,26803
+719,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kanchanpur,Punarbas Municipality,11,61628,17,16338,17725,0,34063
+720,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kanchanpur,Beldandi Rural Municipality,5,22041,8,7199,7538,0,14737
+721,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kanchanpur,Belauri Municipality,10,53918,18,16967,17572,0,34539
+722,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kanchanpur,Bhimdatta Municipality,19,123316,20,32621,34029,0,66650
+723,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kanchanpur,Laljhadi Rural Municipality,6,25271,9,6980,7036,0,14016
+724,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kanchanpur,Bedkot Municipality,10,58250,15,15789,16970,1,32760
+725,Nepal,Local Election 2079,Sudurpaschim Pradesh,Kanchanpur,Shuklaphanta Municipality,12,54379,14,15252,16196,0,31448
+726,Nepal,Local Election 2079,Sudurpaschim Pradesh,Dadeldhura,Ajaymeru Rural Municipality,6,15243,12,5976,5775,0,11751
+727,Nepal,Local Election 2079,Sudurpaschim Pradesh,Dadeldhura,Amargadhi Municipality,11,24792,11,6783,7205,0,13988
+728,Nepal,Local Election 2079,Sudurpaschim Pradesh,Dadeldhura,Aalital Rural Municipality,8,18125,9,5504,5362,0,10866
+729,Nepal,Local Election 2079,Sudurpaschim Pradesh,Dadeldhura,Ganayapdhura Rural Municipality,5,13655,11,4909,5505,0,10414
+730,Nepal,Local Election 2079,Sudurpaschim Pradesh,Dadeldhura,Nawadurga Rural Municipality,5,18745,11,6114,7006,0,13120
+731,Nepal,Local Election 2079,Sudurpaschim Pradesh,Dadeldhura,Parashuram Municipality,12,35748,12,10747,10574,0,21321
+732,Nepal,Local Election 2079,Sudurpaschim Pradesh,Dadeldhura,Bhageshwar Rural Municipality,5,13112,14,4631,4028,0,8659
+733,Nepal,Local Election 2079,Sudurpaschim Pradesh,Baitadi,Dilasaini Rural Municipality,7,23233,9,6799,6457,0,13256
+734,Nepal,Local Election 2079,Sudurpaschim Pradesh,Baitadi,Dasharathchand Municipality,11,31786,22,10863,10869,0,21732
+735,Nepal,Local Election 2079,Sudurpaschim Pradesh,Baitadi,Dogadakedar Rural Municipality,8,23619,12,7439,7312,0,14751
+736,Nepal,Local Election 2079,Sudurpaschim Pradesh,Baitadi,Pancheshwar Rural Municipality,6,17780,9,5376,5737,1,11114
+737,Nepal,Local Election 2079,Sudurpaschim Pradesh,Baitadi,Patan Municipality,10,28360,19,9771,10093,0,19864
+738,Nepal,Local Election 2079,Sudurpaschim Pradesh,Baitadi,Purchaudi Municipality,10,38666,17,10398,10559,0,20957
+739,Nepal,Local Election 2079,Sudurpaschim Pradesh,Baitadi,Melauli Municipality,9,21000,12,6627,6959,1,13587
+740,Nepal,Local Election 2079,Sudurpaschim Pradesh,Baitadi,Shivanath Rural Municipality,6,18247,7,4842,5039,0,9881
+741,Nepal,Local Election 2079,Sudurpaschim Pradesh,Baitadi,Sigash Rural Municipality,9,23479,14,6075,6030,0,12105
+742,Nepal,Local Election 2079,Sudurpaschim Pradesh,Baitadi,Surnaya Rural Municipality,8,18230,8,5693,5666,0,11359
+743,Nepal,Local Election 2079,Sudurpaschim Pradesh,Darchula,Apihimal Rural Municipality,6,7023,8,2394,2257,0,4651
+744,Nepal,Local Election 2079,Sudurpaschim Pradesh,Darchula,Dunhun Rural Municipality,5,9912,5,4180,4096,0,8276
+745,Nepal,Local Election 2079,Sudurpaschim Pradesh,Darchula,Naugad Rural Municipality,6,16434,12,5012,4584,0,9596
+746,Nepal,Local Election 2079,Sudurpaschim Pradesh,Darchula,Mahakali Municipality,9,24572,15,6661,6623,0,13284
+747,Nepal,Local Election 2079,Sudurpaschim Pradesh,Darchula,Marma Rural Municipality,6,15586,14,4777,4508,0,9285
+748,Nepal,Local Election 2079,Sudurpaschim Pradesh,Darchula,Malikarjun Municipality,8,15754,15,5818,5502,0,11320
+749,Nepal,Local Election 2079,Sudurpaschim Pradesh,Darchula,Lekam Rural Municipality,6,13638,13,5016,4754,0,9770
+750,Nepal,Local Election 2079,Sudurpaschim Pradesh,Darchula,Vyans Rural Municipality,6,10205,11,4004,3800,0,7804
+751,Nepal,Local Election 2079,Sudurpaschim Pradesh,Darchula,Shailyashikhar Municipality,9,21932,17,7249,7050,0,14299
