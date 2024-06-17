@@ -4,7 +4,7 @@ This project involves web scraping election-related data from  online sources to
 
 Task 1: Archiving PEP (Politically Exposed Person) details from the Local Election 2079, Nepal. This includes scraping data such as country, election name, province, district, municipality, ward, position, party name, and received votes.
 
-Task 2: Archiving voters' details from the Local Election 2079, Nepal. This involves scraping voters' details such as country, election name, province, district, municipality, total population, number of wards, election center, number of male voters, number of female              voters, and total eligible voters.
+Task 2: Archiving voters' details from the Local Election 2079, Nepal. This involves scraping voters' details such as country, election name, province, district, municipality, total population, number of wards, election center, number of male voters, number of female      voters, number of other voters, and total eligible voters.
 
 Task 3: Archiving PEP details from the Parliament Election 2079, Nepal. This includes scraping data such as country, election name, province, district, constituency number, candidate name, and received votes from both the 2079 and 2074 elections.
 
